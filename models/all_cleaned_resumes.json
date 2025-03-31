@@ -1,0 +1,1479 @@
+[
+    {
+        "Document ID": "644ce068916b3d180221e76c",
+        "Full Name": "Virender Kumar",
+        "Email": "xyz@yopmail.com",
+        "Phone Number": "+911111111111",
+        "Current Job Title": "Software Developer",
+        "City": "Bawal",
+        "State": "AR",
+        "Country Code": "91",
+        "LinkedIn Profile": "https://www.linkedin.com/in/neha-vutukuri/",
+        "GitHub Profile": null,
+        "Portfolio Website": "",
+        "Work Experience": 0,
+        "Education": [],
+        "Employment History": [],
+        "Work Preference": [
+            "hybrid",
+            "remote"
+        ],
+        "Skills": [],
+        "Languages Known": [],
+        "Projects": []
+    },
+    {
+        "Document ID": "644ce08378e8fc84119ab33a",
+        "Full Name": "VIDIT AGARWAL",
+        "Email": "viditprince@yopmail.com",
+        "Phone Number": "9997302747",
+        "Current Job Title": "Data Science and ML Consultant",
+        "City": "Meerut",
+        "State": "UP",
+        "Country Code": "91",
+        "LinkedIn Profile": "",
+        "GitHub Profile": "",
+        "Portfolio Website": "",
+        "Work Experience": 1,
+        "Education": [],
+        "Employment History": [
+            {
+                "designation": "",
+                "company": "Intelligence applicationswith Machine",
+                "from": "2016-11-01",
+                "to": "2018-02-01",
+                "aboutRole": "Gurugram, IN\tLearning, Deep Learning with Python.\nDeep LearningTechniquesincludes\nANN,CNN,RNN, Advanced CNN and Advanced RNN with LSTM.\n\nSkilled in librariessuch as Pytorch,\nPySpark, Keras, Tensorflow, Sklearn,\nNumpy, Pandas, Matplotlib, Seaborn,\nTableau for DataVisualization.\n\nExpertise in manipulating and analyzing complex, high-volume,\nhigh-dimensionality data from varying data sources and big data\nsources.\n\nTechnology Stack: Python, Hadoop, Power BI, Pandas, NumPy, SciKit-Learn, plot.ly,Tableu, R,Deeplearning Re-inforcement and NLP.\nData Visualization & Predictive Analytics\nSteering rapid model creation in Python using Pandas, NumPy, SciKit-Learn & plot.ly for data visualization\nConstituting NLP models for Sentiment Analysis & MapReduce modules for predictive analytics in Hadoop on\nAWS\nDesigning a real-time contextual behavioral personalization system via econometric & ML to predict customer\nbehavior\nCreated linear regression model to arrive at a potential transaction price for all future transactions.\nStatistical Modeling & ML Algorithms\nPlaced various machine learning techniques to build dynamic pricing models and maximize profitability\nLed the development of a performance assessment & pricing analysis platform via k-NN Algorithm\nFormed multivariate regression-based attribution models using ad stock analysis from the digital marketing\ndata\nGenerated segmentation models using K-means Clustering in order to discover new segments of users",
+                "techUsed": [],
+                "toolUsed": [],
+                "stillWorking": false,
+                "location": ""
+            }
+        ],
+        "Work Preference": [
+            "onsite"
+        ],
+        "Skills": [
+            "Algorithm",
+            "Amazon Web Services",
+            "Apache",
+            "Apache Hadoop Mapreduce",
+            "Artificial Intelligence",
+            "Big Data",
+            "Boosting",
+            "Budget",
+            "Business Intelligence",
+            "Clustering",
+            "Collinearity",
+            "Computer Vision",
+            "Data Analytics",
+            "Data Science",
+            "Data Sources",
+            "Data Transformation",
+            "Data Visualization",
+            "Database",
+            "Datasets",
+            "Decision Trees",
+            "Deep Learning",
+            "Digital Campaign",
+            "Digital Marketing",
+            "Dimensional Data",
+            "Ecosystem",
+            "Filings",
+            "Forecasting",
+            "GCP",
+            "Hadoop",
+            "Hive",
+            "Income Tax",
+            "K Nearest Neighbors Classification",
+            "K-Means",
+            "Kernel",
+            "Latent Dirichlet Allocation",
+            "Linear Discriminant Analysis",
+            "Linear Regression",
+            "Linux",
+            "Logistic Regression",
+            "Logistics",
+            "Machine Learning",
+            "Mapreduce",
+            "Market Share",
+            "Marketing",
+            "Metrics",
+            "Mongodb",
+            "Natural Language Processing",
+            "Neural",
+            "Neural Networks",
+            "Parametric",
+            "Pig",
+            "Postgresql",
+            "Power Bi",
+            "Predictive Analytics",
+            "Pricing Analysis",
+            "Pricing Models",
+            "Principal Component Analysis",
+            "Project Management",
+            "PyTorch",
+            "Python",
+            "Random Forest",
+            "Random Forests",
+            "Real-Time",
+            "Recruiting",
+            "Retail",
+            "Retail Marketing",
+            "SAS",
+            "SQL",
+            "Sales Leads",
+            "Segmentation",
+            "Sentiment Analysis",
+            "Serial Attached Scsi",
+            "Statistical Analysis",
+            "Statistical Modeling",
+            "Statistics",
+            "Steering",
+            "Support Vector Machine",
+            "Tableau Software",
+            "Taxation",
+            "Visualization"
+        ],
+        "Languages Known": [
+            "English",
+            "Hindi"
+        ],
+        "Projects": [
+            {
+                "project_name": "",
+                "tools_used/skill_used": [
+                    "Python",
+                    "Hadoop",
+                    "Power BI",
+                    "Pandas",
+                    "NumPy",
+                    "SciKit-Learn",
+                    "plot.ly",
+                    "Tableau",
+                    "R",
+                    "Deeplearning Re-inforcement",
+                    "NLP",
+                    "Pytorch",
+                    "PySpark",
+                    "Keras",
+                    "Tensorflow",
+                    "Sklearn",
+                    "Matplotlib",
+                    "Seaborn",
+                    "ANN",
+                    "CNN",
+                    "RNN",
+                    "LSTM",
+                    "MapReduce",
+                    "K-means Clustering",
+                    "linear regression model",
+                    "k-NN Algorithm",
+                    "econometric modeling",
+                    "AWS",
+                    "SQL"
+                ],
+                "Soft_skills": [
+                    "Data Visualization",
+                    "Predictive Analytics",
+                    "Statistical Modeling",
+                    "Problem-solving",
+                    "Analytical Skills",
+                    "Communication",
+                    "Leadership (implied by 'Led the development')"
+                ],
+                "description": "Gurugram, IN\tLearning, Deep Learning with Python.\nDeep LearningTechniquesincludes\nANN,CNN,RNN, Advanced CNN and Advanced RNN with LSTM.\n\nSkilled in librariessuch as Pytorch,\nPySpark, Keras, Tensorflow, Sklearn,\nNumpy, Pandas, Matplotlib, Seaborn,\nTableau for DataVisualization.\n\nExpertise in manipulating and analyzing complex, high-volume,\nhigh-dimensionality data from varying data sources and big data\nsources.\n\nTechnology Stack: Python, Hadoop, Power BI, Pandas, NumPy, SciKit-Learn, plot.ly,Tableu, R,Deeplearning Re-inforcement and NLP.\nData Visualization & Predictive Analytics\nSteering rapid model creation in Python using Pandas, NumPy, SciKit-Learn & plot.ly for data visualization\nConstituting NLP models for Sentiment Analysis & MapReduce modules for predictive analytics in Hadoop on\nAWS\nDesigning a real-time contextual behavioral personalization system via econometric & ML to predict customer\nbehavior\nCreated linear regression model to arrive at a potential transaction price for all future transactions.\nStatistical Modeling & ML Algorithms\nPlaced various machine learning techniques to build dynamic pricing models and maximize profitability\nLed the development of a performance assessment & pricing analysis platform via k-NN Algorithm\nFormed multivariate regression-based attribution models using ad stock analysis from the digital marketing\ndata\nGenerated segmentation models using K-means Clustering in order to discover new segments of users"
+            }
+        ]
+    },
+    {
+        "Document ID": "644ce08c78e8fc84119ab4fd",
+        "Full Name": "Kundan Kumar",
+        "Email": "krkundankumar156@yopmail.com",
+        "Phone Number": "9693162187",
+        "Current Job Title": "Senior Frontend Developer",
+        "City": "Sheikhpura",
+        "State": "Bihar",
+        "Country Code": "91",
+        "LinkedIn Profile": "",
+        "GitHub Profile": "",
+        "Portfolio Website": "",
+        "Work Experience": "",
+        "Education": [],
+        "Employment History": [
+            {
+                "designation": "",
+                "company": "Wapology India",
+                "from": "2018-12-01",
+                "to": "2021-03-01",
+                "aboutRole": "",
+                "techUsed": [],
+                "toolUsed": [],
+                "stillWorking": false,
+                "location": ""
+            },
+            {
+                "designation": "",
+                "company": "IT Troyes Services",
+                "from": "2018-03-01",
+                "to": "2018-11-30",
+                "aboutRole": "",
+                "techUsed": [],
+                "toolUsed": [],
+                "stillWorking": false,
+                "location": ""
+            },
+            {
+                "designation": "",
+                "company": "IGLOBAL IMPACT ITES",
+                "from": "2015-05-01",
+                "to": "2017-11-01",
+                "aboutRole": "Frontend  development area where I am working in properly  HTML5, CSS3, JAVASCRIPT, JQERY, AJAX, BOOTSTRSP, WORDPRESS, PHP, MySql, ANGULAR, IONIC, REACT JS, PHOTOSHOP etc  where I worked in few projects which is to be running on\n\n\nProjects Link:\nList of completed live projects\nhttps://www.hiremyma.com/ (I have worked with 1+ years which frontend technology html5, css3, bootstrap, angular 7 and backend technology php & msql)\nhttp://linkish.io/  (I have worked with 1.5 years which frontend technology html5, css3, material ui, reactjs and backend technology node js & mongodb)\nhttp://casada.co.uk/\nhttp://turmerix.co.uk/\nCurrently is working on these projects.\nApp Current Working:\nhttps://www.hiremyma.com/\nhttp://linkish.io/ (Bookmark manager application)\nhttps://www.hiremyma.com/ (Same as Naukri.com application)\nDearJob Application (Same as Naukri.com application)",
+                "techUsed": [],
+                "toolUsed": [],
+                "stillWorking": false,
+                "location": ""
+            }
+        ],
+        "Work Preference": [
+            "onsite"
+        ],
+        "Skills": [
+            "AJAX",
+            "Bootstrap",
+            "CSS",
+            "Dreamweaver",
+            "HTML",
+            "Ionic",
+            "JAVA",
+            "JSON",
+            "Javascript",
+            "Jquery",
+            "Mongodb",
+            "Mysql",
+            "Node.JS",
+            "PHP",
+            "Photoshop",
+            "Reactjs",
+            "SQL",
+            "User Interface",
+            "Windows XP",
+            "Wordpress"
+        ],
+        "Languages Known": [
+            "English"
+        ],
+        "Projects": [
+            {
+                "project_name": "",
+                "tools_used/skill_used": [
+                    "HTML5",
+                    "CSS3",
+                    "JAVASCRIPT",
+                    "JQERY",
+                    "AJAX",
+                    "BOOTSTRAP",
+                    "WORDPRESS",
+                    "PHP",
+                    "MySql",
+                    "ANGULAR",
+                    "IONIC",
+                    "REACT JS",
+                    "PHOTOSHOP",
+                    "Node JS",
+                    "mongodb",
+                    "html5",
+                    "css3",
+                    "bootstrap",
+                    "angular 7",
+                    "php",
+                    "msql",
+                    "material ui",
+                    "reactjs",
+                    "node js"
+                ],
+                "Soft_skills": [],
+                "description": "Frontend  development area where I am working in properly  HTML5, CSS3, JAVASCRIPT, JQERY, AJAX, BOOTSTRSP, WORDPRESS, PHP, MySql, ANGULAR, IONIC, REACT JS, PHOTOSHOP etc  where I worked in few projects which is to be running on\n\n\nProjects Link:\nList of completed live projects\nhttps://www.hiremyma.com/ (I have worked with 1+ years which frontend technology html5, css3, bootstrap, angular 7 and backend technology php & msql)\nhttp://linkish.io/  (I have worked with 1.5 years which frontend technology html5, css3, material ui, reactjs and backend technology node js & mongodb)\nhttp://casada.co.uk/\nhttp://turmerix.co.uk/\nCurrently is working on these projects.\nApp Current Working:\nhttps://www.hiremyma.com/\nhttp://linkish.io/ (Bookmark manager application)\nhttps://www.hiremyma.com/ (Same as Naukri.com application)\nDearJob Application (Same as Naukri.com application)"
+            }
+        ]
+    },
+    {
+        "Document ID": "644ce08078e8fc84119ab2d1",
+        "Full Name": "Vasavi Bakka",
+        "Email": "vasavib95@yopmail.com",
+        "Phone Number": "8125429271",
+        "Current Job Title": "Senior Test engineer",
+        "City": "Sangareddy",
+        "State": "Telangana",
+        "Country Code": "91",
+        "LinkedIn Profile": "",
+        "GitHub Profile": "",
+        "Portfolio Website": "",
+        "Work Experience": 0,
+        "Education": [],
+        "Employment History": [
+            {
+                "designation": "",
+                "company": "",
+                "from": "",
+                "to": "",
+                "aboutRole": "Functional Domain Name   Experience   Description\nWeb Based Applications   6\tWorked on web application Salesforce and other internal applications Legal and Orders\n\n\nTechnical Skills\n\n\nPrimary Skills\n\n\nBasics of software testing, Control Plane Protocol, Design knowledge, Manual Testing, Onsite Co-ordination, ruby, Process management, Programming Fundamentals, Regression Testing, Smoke Testing, Sanity Testing, Soap Ui, Copado, web testing, UI Testing",
+                "techUsed": [],
+                "toolUsed": [],
+                "stillWorking": false,
+                "location": ""
+            }
+        ],
+        "Work Preference": [
+            "onsite"
+        ],
+        "Skills": [
+            "Billing",
+            "Buying",
+            "CRM",
+            "Confluence",
+            "Customer Relationship Management",
+            "Functional Testing",
+            "Invoice",
+            "JAVA",
+            "JIRA",
+            "Maintenance",
+            "Manual Test",
+            "Marketing",
+            "Process Management",
+            "Regression Testing",
+            "SOAP",
+            "SQL",
+            "Sales People",
+            "Sales Team",
+            "Salesforce",
+            "Selenium",
+            "Software Testing",
+            "Systems Engineer",
+            "User Interface",
+            "WEB Application Testing",
+            "WEB Based",
+            "WEB Testing",
+            "Workflow",
+            "X-RAY",
+            "Zeplin"
+        ],
+        "Languages Known": [
+            "English"
+        ],
+        "Projects": [
+            {
+                "project_name": "",
+                "tools_used/skill_used": [
+                    "Salesforce",
+                    "ruby",
+                    "Soap Ui",
+                    "Copado",
+                    "Manual Testing",
+                    "web testing",
+                    "UI Testing"
+                ],
+                "Soft_skills": [
+                    "Design knowledge",
+                    "Onsite Co-ordination",
+                    "Process management",
+                    "Programming Fundamentals",
+                    "Communication"
+                ],
+                "description": "Functional Domain Name   Experience   Description\nWeb Based Applications   6\tWorked on web application Salesforce and other internal applications Legal and Orders\n\n\nTechnical Skills\n\n\nPrimary Skills\n\n\nBasics of software testing, Control Plane Protocol, Design knowledge, Manual Testing, Onsite Co-ordination, ruby, Process management, Programming Fundamentals, Regression Testing, Smoke Testing, Sanity Testing, Soap Ui, Copado, web testing, UI Testing"
+            }
+        ]
+    },
+    {
+        "Document ID": "644ce08178e8fc84119ab307",
+        "Full Name": "AMAN SINGH",
+        "Email": "bkaman.peace@yopmail.com",
+        "Phone Number": "9038671745",
+        "Current Job Title": "Software Engineer",
+        "City": "Kolkata",
+        "State": "WB",
+        "Country Code": "91",
+        "LinkedIn Profile": "",
+        "GitHub Profile": "",
+        "Portfolio Website": "",
+        "Work Experience": 6,
+        "Education": [],
+        "Employment History": [
+            {
+                "designation": "Software Engineer",
+                "company": "Arvind Internet",
+                "from": "2021-05-01",
+                "to": "Present",
+                "aboutRole": "Develop rest apis, Marketplace integration with omuni channel, Managed\norder flow",
+                "techUsed": [],
+                "toolUsed": [],
+                "stillWorking": true,
+                "location": "Bengaluru"
+            },
+            {
+                "designation": "Software Engineer",
+                "company": "Codelynks Software Solutions",
+                "from": "2020-10-01",
+                "to": "2021-05-01",
+                "aboutRole": "Develop rest apis with the latest backend framework of Nodejs",
+                "techUsed": [],
+                "toolUsed": [],
+                "stillWorking": false,
+                "location": ""
+            },
+            {
+                "designation": "Software Engineer",
+                "company": "Vanward Information Technologies",
+                "from": "2020-02-01",
+                "to": "2020-10-01",
+                "aboutRole": "Develop user interfaces with the latest frontend framework of Angular",
+                "techUsed": [],
+                "toolUsed": [],
+                "stillWorking": false,
+                "location": "Bangalore"
+            },
+            {
+                "designation": "",
+                "company": "Success Orbit",
+                "from": "2014-04-01",
+                "to": "2017-09-01",
+                "aboutRole": "BCA, MCA, B.Tech Faculty\nGiving training on programming languages like C, C++, data structures,\nAlgorithms, operating system, DBMS, and core java",
+                "techUsed": [],
+                "toolUsed": [],
+                "stillWorking": false,
+                "location": "Kolkata"
+            }
+        ],
+        "Work Preference": [
+            "onsite"
+        ],
+        "Skills": [
+            "Amazon Web Services",
+            "C++",
+            "Caching",
+            "DBMS",
+            "Data Structures",
+            "Database Management System",
+            "Eclipse",
+            "General Ledger",
+            "Git",
+            "JAVA",
+            "Jenkins",
+            "Kafka",
+            "Kibana",
+            "Mongodb",
+            "Mysql",
+            "Node.JS",
+            "Queue Management",
+            "Reconciliation",
+            "Redis",
+            "Spring Boot",
+            "Teaching",
+            "WEB Portal"
+        ],
+        "Languages Known": [
+            "Bangla",
+            "English",
+            "Hindi"
+        ],
+        "Projects": [
+            {
+                "project_name": {
+                    "Raw": "Software Engineer",
+                    "Normalized": "Software Engineer",
+                    "Probability": "Confident"
+                },
+                "tools_used/skill_used": [
+                    "rest apis",
+                    "Marketplace integration",
+                    "omuni channel"
+                ],
+                "Soft_skills": [
+                    "Managed order flow"
+                ],
+                "description": "Develop rest apis, Marketplace integration with omuni channel, Managed\norder flow"
+            },
+            {
+                "project_name": {
+                    "Raw": "Software Engineer",
+                    "Normalized": "Software Engineer",
+                    "Probability": "Confident"
+                },
+                "tools_used/skill_used": [
+                    "rest apis",
+                    "Nodejs"
+                ],
+                "Soft_skills": [],
+                "description": "Develop rest apis with the latest backend framework of Nodejs"
+            },
+            {
+                "project_name": {
+                    "Raw": "Software Engineer",
+                    "Normalized": "Software Engineer",
+                    "Probability": "Confident"
+                },
+                "tools_used/skill_used": [
+                    "Angular"
+                ],
+                "Soft_skills": [],
+                "description": "Develop user interfaces with the latest frontend framework of Angular"
+            },
+            {
+                "project_name": "",
+                "tools_used/skill_used": [
+                    "C",
+                    "C++",
+                    "data structures",
+                    "Algorithms",
+                    "operating system",
+                    "DBMS",
+                    "core java"
+                ],
+                "Soft_skills": [
+                    "Teaching"
+                ],
+                "description": "BCA, MCA, B.Tech Faculty\nGiving training on programming languages like C, C++, data structures,\nAlgorithms, operating system, DBMS, and core java"
+            }
+        ]
+    },
+    {
+        "Document ID": "644ce08578e8fc84119ab3c3",
+        "Full Name": "Ravi Rao",
+        "Email": "raoravi1988@yopmail.com",
+        "Phone Number": "9650681202",
+        "Current Job Title": "consultant",
+        "City": "pune",
+        "State": "maharastra",
+        "Country Code": "91",
+        "LinkedIn Profile": "",
+        "GitHub Profile": "",
+        "Portfolio Website": "",
+        "Work Experience": "",
+        "Education": [],
+        "Employment History": [
+            {
+                "designation": "Consultant",
+                "company": "ATOS India",
+                "from": "2022-02-01",
+                "to": "Present",
+                "aboutRole": "",
+                "techUsed": [],
+                "toolUsed": [],
+                "stillWorking": true,
+                "location": ""
+            },
+            {
+                "designation": "Senior software engineer",
+                "company": "On Demand Agility",
+                "from": "2020-10-01",
+                "to": "2022-02-01",
+                "aboutRole": "Worked as Sr. software engineer. at SA Tech Pvt Ltd (client: Dell) from Oct2019 to Mar2020",
+                "techUsed": [],
+                "toolUsed": [],
+                "stillWorking": false,
+                "location": ""
+            },
+            {
+                "designation": "Senior software engineer",
+                "company": "Conduent",
+                "from": "2017-12-01",
+                "to": "2018-08-31",
+                "aboutRole": "",
+                "techUsed": [],
+                "toolUsed": [],
+                "stillWorking": false,
+                "location": ""
+            },
+            {
+                "designation": "UI developer",
+                "company": "Exl Techno Solution",
+                "from": "2014-05-01",
+                "to": "2017-10-01",
+                "aboutRole": "",
+                "techUsed": [],
+                "toolUsed": [],
+                "stillWorking": false,
+                "location": ""
+            }
+        ],
+        "Work Preference": [
+            "onsite"
+        ],
+        "Skills": [
+            "AJAX",
+            "API",
+            "Agile",
+            "Artificial Intelligence",
+            "Billing",
+            "Bootstrap",
+            "CSS",
+            "Client-Server",
+            "Coding",
+            "Computer Vision",
+            "D3.JS",
+            "DB2",
+            "Data Modeling",
+            "Data Visualization",
+            "Database Modeling",
+            "Engines",
+            "Front-End",
+            "HTML",
+            "JAVA",
+            "JSON",
+            "Javascript",
+            "Jquery",
+            "Linux",
+            "Loader",
+            "Machine Learning",
+            "Microsoft Windows",
+            "Node.JS",
+            "Object Oriented Programming",
+            "Oracle",
+            "Photoshop",
+            "Python",
+            "REST",
+            "Scripting",
+            "Scrum",
+            "Search Engine Optimization",
+            "Spring Boot",
+            "Unit Testing",
+            "User Experience Design",
+            "User Interface",
+            "WEB Based"
+        ],
+        "Languages Known": [
+            "English"
+        ],
+        "Projects": [
+            {
+                "project_name": {
+                    "Raw": "Sr. software engineer",
+                    "Normalized": "Senior software engineer",
+                    "Probability": "Confident"
+                },
+                "tools_used/skill_used": [],
+                "Soft_skills": [],
+                "description": "Worked as Sr. software engineer. at SA Tech Pvt Ltd (client: Dell) from Oct2019 to Mar2020"
+            }
+        ]
+    },
+    {
+        "Document ID": "644ce08978e8fc84119ab474",
+        "Full Name": "Supritha H S",
+        "Email": "suppigowda789@yopmail.com",
+        "Phone Number": "9901885146",
+        "Current Job Title": "Web Developer",
+        "City": "Mysore",
+        "State": "Karnataka",
+        "Country Code": "91",
+        "LinkedIn Profile": "",
+        "GitHub Profile": "",
+        "Portfolio Website": "",
+        "Work Experience": "",
+        "Education": [],
+        "Employment History": [],
+        "Work Preference": [
+            "onsite"
+        ],
+        "Skills": [],
+        "Languages Known": [],
+        "Projects": []
+    },
+    {
+        "Document ID": "644ce08b78e8fc84119ab4d3",
+        "Full Name": "Mohan Sharma",
+        "Email": "sms.2359@yopmail.com",
+        "Phone Number": "9911157063",
+        "Current Job Title": "Technical Head - Web Development",
+        "City": "GURUGRAM",
+        "State": "Haryana",
+        "Country Code": "91",
+        "LinkedIn Profile": "",
+        "GitHub Profile": "",
+        "Portfolio Website": "",
+        "Work Experience": 12,
+        "Education": [
+            {
+                "degree": "B.E(CSE)",
+                "specialization": "B.E(CSE)",
+                "institution": "Marathawada University",
+                "year": "2010"
+            },
+            {
+                "degree": "Diploma: software Engineering",
+                "specialization": "software Engineering",
+                "institution": "NIIT",
+                "year": "2006"
+            },
+            {
+                "degree": "Science",
+                "specialization": "Science",
+                "institution": "Higher Secondary School",
+                "year": "2004"
+            },
+            {
+                "degree": "C.B.S.E. Board",
+                "specialization": "C.B.S.E. Board",
+                "institution": "Secondary School",
+                "year": "2002"
+            }
+        ],
+        "Employment History": [
+            {
+                "designation": "Technical Head Web Development",
+                "company": "VUME Interactive",
+                "from": "2021-09-01",
+                "to": "Present",
+                "aboutRole": "(Project Based)\nKey Points:\n\u2022 Supervise all employees in production and technical control departments, including assigning tasks, and ensuring compliance with timelines.\n\u2022 Communicate with production technicians and engineering personnel to improve coordination and efficiency during joint projects.\n\u2022 Coordinate with marketing directors/Manager to oversee promotional campaigns and improve results of marketing-related productions.\n\n\nVUME Projects:\n1. Spartan Poker Website:-\nDescription: Spartan poker is our parent organization. Current spartan poker website was developed by external agencies. Now, we are developing this website In-house. This project include Frontend website, Backend CMS, and Reports management.\nRole: I have gather all project requirements with Marketing team, Setup Laravel project, Integrate SOAP API, Architect Backend structure, Dynamic Menu, Fixed UI Bugs, Code review, Lead Team of four Member (2 Dev, 1 UI Dev, 1QA), Setup project on AWS EC2 Instance for staging\nTechnologies Used: Laravel 8, MySQL, Bootstrap, HTML, Webengage, SOAP API Integration, Git, Infinity for product management, Nginx\nStatus: On Staging Server\n2. iGaming Website:-\nDescription: This project include Frontend website, Backend CMS, and Categories games integration using backend. We are developing this for Poker Daddy Casio.\nRole: I have gather all project requirements with Marketing team, Setup Laravel project, Integrate SOAP API, Architect Backend structure, Fixed UI Bugs, Lead Team of four Member (2 Dev, 1 UI Dev, 1QA)\nTechnologies Used: Laravel 8, MySQL, Bootstrap, HTML, REST API Integration, Git, Infinity for product management, Nginx\nStatus: Under Development\n\n3. Aio.games Blog:-\nDescription: Spartan poker started multi gaming platform. I have setup it's blog using Wordpress. Theme was purchased but I have customized theme.\nRole: Setup project on AWS EC2 Instance for staging, Wordpress installation, Theme installation, Theme customization, Redirect blog.aio.games to aio.games/blog\nTechnologies Used: Wordpress, MySQL, Bootstrap, HTML, Nginx\nStatus: Live",
+                "techUsed": [],
+                "toolUsed": [],
+                "stillWorking": true,
+                "location": "Bangalore"
+            },
+            {
+                "designation": "Lead PHP Developer",
+                "company": "Gaussian Networks",
+                "from": "2014-05-01",
+                "to": "2021-09-01",
+                "aboutRole": "Harayana (Product Based Company)\nKey Points:\n\u2022 Worked closely with product team to develop new requirements like redemption process and user purchase and bonus distribution flow on the basis of user's game play activities.\n\u2022 Defined Credit/Debit system in Adda52 product for all chips transactions.\n\u2022 Worked with Compliance team to resolve user queries for Purchase and redemption at early stage.\n\u2022 Scaled system internal transaction (Bonus distribution) as well as gateway transactions up to 100 TPS by implement queuing system\n\u2022 Worked with Finance team to validate reconciliation report and bad debt.\n\u2022 Handled cross platform team of product support, resolved bugs and provide root cause analysis\n\u2022 Design database schemas for entire product and implement index to optimize query speed.\n\u2022 Introduced automated marketing tools into Adda52 and give free hand to marketing teams. Implement marketing tools using Rabbit MQ queuing system. Tools: Gamooga, WebEngage, HasOffers, Appflyer\n\u2022 Created Data lake in Snowflake and Pipeline using Hevo tool for Mysql, and Mongo data. Also Perform ETL operations on Snowflake.\n\u2022 Developed CMS and Website using Laravel, Redis, Queue, Command, Multiple Mysql DB Connections\n\nGaussian Networks Projects:\n1. Adda52.com Website:\nDescription: We have Develop many API for Android and IOS Team, Systematic Transform Website from PHP to NodeJs. Token based Authentication.\nRole: Mentor Team (3 Dev, 2 QA, 1 UI Dev), Code review, Module Development, Requirement Analysis, Task Estimation, Task Discussion with product team.\nTechnologies Used: Microservice Architecture, Payment Gateway, MongoDB, MySQL, NodeJs (Express), Nginx, Bootstrap, HTML, Git, Assembla, Webengage, Redis, RabbitMQ, 2 Week Scrum Cycle\nStatus: Live\n2. Adda52.com CRM and Compliance Portal:\nDescription: CRM panel for Internal team. Send SMS/Email, Call Users using Panel, Payment gateway Transaction Status, Withdrawal management, Approve withdraw and instant payment to Users using Rabbit MQ, manage User support ticket, user game play and all information related to user. 2 Lavel approval for critical actions with email notification.\nRole: Mentor Team (3 Dev, 2 QA, 1 UI Dev), Code review, Module Development, Requirement Analysis, Task Estimation, Task Discussion with product team.\nTechnologies Used: MySQL, Codeigniter, Nginx, Bootstrap, HTML, Git, Assembla, 2 Week Scrum Cycle, Rabbit MQ, IMI Call/SMS API, Kenscio Email\nStatus: Live\n3. Adda52.com CMS Portal:\nDescription: Website content management system was developed In house for SEO team. Content approval\nRole: Mentor Team (3 Dev, 2 QA, 1 UI Dev), Code review, Module Development, Requirement Analysis, Task Estimation, Task Discussion with product team.\nTechnologies Used: MySQL, Codeigniter, Nginx, Bootstrap, HTML, Git, Assembla, 2 Week Scrum Cycle\nStatus: Live\n4. Adda52.com Reactivation Portal:\nDescription: Portal for Reactivation team, Create campaign, Add user in campaign, Add Agent, Manage Agent, Automatic distribution of data to Agent using Rabbit MQ for new Signups, Agents performance report.\nRole: Mentor Team (3 Dev, 2 QA, 1 UI Dev), Code review, Module Development, Requirement Analysis, Task Estimation, Task Discussion with product team.\nTechnologies Used: MySQL, Codeigniter, Nginx, Bootstrap, HTML, Git, Assembla, 2 Week Scrum Cycle, Rabbit MQ, IMI Call/SMS API, Kenscio Email\nStatus: Live\n5. Adda52.com Acquisition Portal:\nDescription: Provide a system to track user signup, fetch reports DAU, MAU, and many more reports. Affiliate performance report, Create Landing pages from backend.\nRole: Mentor Team (3 Dev, 2 QA, 1 UI Dev), Code review, Module Development, Requirement Analysis, Task Estimation, Task Discussion with product team.\nTechnologies Used: MySQL, Laravel, Nginx, Bootstrap, HTML, Git, Assembla, 2 Week Scrum Cycle\nStatus: Live\n6. Adda52.com Affiliate Portal:\nDescription: Panel for external affiliate, Affiliate can track user performance register via affiliate, Affiliate commission, Add Affiliate, Manage Affiliate, Affiliate Payout, Affiliate approval\nRole: Developer, Peer Code review, Requirement Analysis, Task Estimation, Task Discussion with Lead.\nTechnologies Used: MySQL, Laravel, Nginx, Bootstrap, HTML, Git, Assembla, 2 Week Scrum Cycle\nStatus: Live\n7. Adda52.com Banner Panel:\nDescription: We have created a common panel to manage banner for all adda52.com website from one source.\nRole: Developer, Peer Code review, Requirement Analysis, Task Estimation, Task Discussion with Lead.\nTechnologies Used: MySQL, NodeJs, Nginx, Bootstrap, HTML, Git, Assembla, 2 Week Scrum Cycle, S3 Bucket, AngularJs\nStatus: Live\n8. Adda52.com Data Portal:\nDescription: Portal to fetch data from slave database. This portal is used by Marketing and finance team to get user data.\nRole: Developer, Requirement Analysis, Task Discussion with Lead, Discussion with product team.\nTechnologies Used: MySQL, Laravel 5, Apache, Bootstrap, HTML, Git, Assembla\nStatus: Live\n\n9. Adda52 Poker School:\nDescription: Developed a website to educate New users about poker and give credit on video completion. Earned credit can be used by user to play poker on main website.\nRole: Developer, Requirement Analysis, Task Discussion with Lead, Discussion with product team.\nTechnologies Used: MySQL, Laravel 5, Apache, Bootstrap, HTML, Git, Assembla\nStatus: Archived by management\n\n10. Adda52 Microdomain Websites:\nDescription: Created micro website to run landing pages for Acquisition team. They can manage landing pages from backend\nRole: Developer, Peer Code review, Requirement Analysis, Task Discussion with Lead.\nTechnologies Used: MySQL, Laravel 5, Apache, Bootstrap, HTML, Git, Assembla\nStatus: Archived (New structure created in NodeJs)",
+                "techUsed": [],
+                "toolUsed": [],
+                "stillWorking": false,
+                "location": "Gurgaon"
+            },
+            {
+                "designation": "Senior PHP Developer",
+                "company": "",
+                "from": "2013-04-01",
+                "to": "2014-05-01",
+                "aboutRole": "Haryana (Product Based)\nKey Points:\n\u2022 POC on new technologies, software packages and hardware products for use in website projects.\n\u2022 Collected, defined and translated Toyota and Kamdhenu requirements into project designs and implementation plans.\n\u2022 Developed, coded and updated ERP modules like CRM and Inventory and worked on One page sites for in house product.\n\u2022 Used programming capabilities in PHP Framework like Codeigniter, MySQL and JavaScript, jQuery and other libraries as needed.\n\u2022 Develop some module and Provided support to Toyota and Kamdhenu for ERP implementation. I got certificate of excellent support\n\u2022 Implemented Google Campaigns and SEO for various types of websites.\n\nSinghal System Projects\n1. ERP Portal:\nDescription: Customize Existing ERP Web Portal According to Company Client Toyota and Kamdhenu. This was inventory management system\nRole: Developer, Module Development, Task Estimation, Task Discussion with team lead.\nTechnologies Used: Codeigniter, Mysql, HTML, jQuery\nStatus: Live",
+                "techUsed": [],
+                "toolUsed": [],
+                "stillWorking": false,
+                "location": "Gurgaon"
+            },
+            {
+                "designation": "PHP Developer",
+                "company": "",
+                "from": "2012-10-01",
+                "to": "2013-04-01",
+                "aboutRole": "Delhi\n\u2022 Collected, defined and translated user requirements into project designs and implementation plans.\n\u2022 Completed full redesigns of existing websites to improve navigation, enhance visuals and strengthen search engine rankings.\n\u2022 Created site layout and user interface using HTML and CSS practices.\n\u2022 Delivered user support to clients to train, educate and answer questions.\n\u2022 Created powerful Content Management Systems to serve as interface for client.\n\u2022 Used programming capabilities in PHP, SQL and JavaScript and other 3rd party libraries as needed.",
+                "techUsed": [],
+                "toolUsed": [],
+                "stillWorking": false,
+                "location": "Delhi"
+            },
+            {
+                "designation": "Junior Web Developer",
+                "company": "RensoftGlobal",
+                "from": "2012-01-01",
+                "to": "2012-10-01",
+                "aboutRole": "\u2022 Used programming capabilities in PHP, SQL and JavaScript and other libraries as needed.\n\u2022 Created powerful Content Management Systems to serve as interface for client.\n\u2022 Tested websites and performed troubleshooting prior to deployment.\n\u2022 Created web applications and components using PHP programming language.\n\u2022 Conducted unit testing to deliver optimal browser functionality.",
+                "techUsed": [],
+                "toolUsed": [],
+                "stillWorking": false,
+                "location": "Noida"
+            }
+        ],
+        "Work Preference": [
+            "onsite"
+        ],
+        "Skills": [
+            "AJAX",
+            "API",
+            "Agile",
+            "Amazon Elastic Compute Cloud",
+            "Android",
+            "Angularjs",
+            "Apache",
+            "Authentication",
+            "B2B Software",
+            "Bootstrap",
+            "CMS",
+            "CRM",
+            "CSS",
+            "Codeigniter",
+            "Content Management System",
+            "Content Management Systems",
+            "Credit/Debit",
+            "Customer Relationship Management",
+            "Data Analytics",
+            "Data Science",
+            "Database",
+            "Deployment",
+            "ERP",
+            "ETL",
+            "Employee Resource Group",
+            "Enterprise Resource Planning",
+            "Estimation",
+            "Finance",
+            "Gather Requirements",
+            "Git",
+            "HTML",
+            "IOS",
+            "Inventory",
+            "Inventory Management",
+            "Javascript",
+            "Jquery",
+            "Lamp Stack",
+            "Laravel",
+            "Linux",
+            "MVC",
+            "Machine Learning",
+            "Marketing",
+            "Mentor",
+            "Microservice",
+            "Model View Controller",
+            "Model-View-Controller",
+            "Mongodb",
+            "Mysql",
+            "Nginx",
+            "Node.JS",
+            "Operations",
+            "PHP",
+            "Pipeline",
+            "Predictive Modeling",
+            "Product Architecture",
+            "Product Management",
+            "Product Support",
+            "Project Management",
+            "Python",
+            "QA",
+            "Queue Management",
+            "REST",
+            "RabbitMQ",
+            "Reconciliation",
+            "Redis",
+            "Requirement Analysis",
+            "Root Cause Analysis",
+            "SMS",
+            "SOAP",
+            "SQL",
+            "Scrum",
+            "Search Engine",
+            "Search Engine Optimization",
+            "Site Layout",
+            "Structured Software",
+            "TPS",
+            "Team Lead",
+            "Translated",
+            "Ubuntu",
+            "Unit Testing",
+            "User Interface",
+            "Vertica",
+            "WEB Portal",
+            "WEB Server",
+            "Wordpress"
+        ],
+        "Languages Known": [
+            "English"
+        ],
+        "Projects": [
+            {
+                "project_name": {
+                    "Raw": "Technical Head - Web Development",
+                    "Normalized": "Technical Head Web Development",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Technical Head"
+                    ]
+                },
+                "tools_used/skill_used": [
+                    "Laravel 8",
+                    "MySQL",
+                    "Bootstrap",
+                    "HTML",
+                    "Webengage",
+                    "SOAP API Integration",
+                    "Git",
+                    "Infinity for product management",
+                    "Nginx",
+                    "REST API Integration",
+                    "Wordpress"
+                ],
+                "Soft_skills": [
+                    "Supervise",
+                    "Communication",
+                    "Coordination",
+                    "Project Management",
+                    "Code review",
+                    "Team Lead"
+                ],
+                "description": "(Project Based)\nKey Points:\n\u2022 Supervise all employees in production and technical control departments, including assigning tasks, and ensuring compliance with timelines.\n\u2022 Communicate with production technicians and engineering personnel to improve coordination and efficiency during joint projects.\n\u2022 Coordinate with marketing directors/Manager to oversee promotional campaigns and improve results of marketing-related productions.\n\n\nVUME Projects:\n1. Spartan Poker Website:-\nDescription: Spartan poker is our parent organization. Current spartan poker website was developed by external agencies. Now, we are developing this website In-house. This project include Frontend website, Backend CMS, and Reports management.\nRole: I have gather all project requirements with Marketing team, Setup Laravel project, Integrate SOAP API, Architect Backend structure, Dynamic Menu, Fixed UI Bugs, Code review, Lead Team of four Member (2 Dev, 1 UI Dev, 1QA), Setup project on AWS EC2 Instance for staging\nTechnologies Used: Laravel 8, MySQL, Bootstrap, HTML, Webengage, SOAP API Integration, Git, Infinity for product management, Nginx\nStatus: On Staging Server\n2. iGaming Website:-\nDescription: This project include Frontend website, Backend CMS, and Categories games integration using backend. We are developing this for Poker Daddy Casio.\nRole: I have gather all project requirements with Marketing team, Setup Laravel project, Integrate SOAP API, Architect Backend structure, Fixed UI Bugs, Lead Team of four Member (2 Dev, 1 UI Dev, 1QA)\nTechnologies Used: Laravel 8, MySQL, Bootstrap, HTML, REST API Integration, Git, Infinity for product management, Nginx\nStatus: Under Development\n\n3. Aio.games Blog:-\nDescription: Spartan poker started multi gaming platform. I have setup it's blog using Wordpress. Theme was purchased but I have customized theme.\nRole: Setup project on AWS EC2 Instance for staging, Wordpress installation, Theme installation, Theme customization, Redirect blog.aio.games to aio.games/blog\nTechnologies Used: Wordpress, MySQL, Bootstrap, HTML, Nginx\nStatus: Live"
+            },
+            {
+                "project_name": {
+                    "Raw": "Lead PHP Developer",
+                    "Normalized": "Lead PHP Developer",
+                    "Probability": "Confident"
+                },
+                "tools_used/skill_used": [
+                    "Rabbit MQ",
+                    "Gamooga",
+                    "WebEngage",
+                    "HasOffers",
+                    "Appflyer",
+                    "Snowflake",
+                    "Hevo tool",
+                    "Mysql",
+                    "Mongo data",
+                    "Laravel",
+                    "Redis",
+                    "Queue",
+                    "Command",
+                    "Microservice Architecture",
+                    "Payment Gateway",
+                    "MongoDB",
+                    "MySQL",
+                    "NodeJs (Express)",
+                    "Nginx",
+                    "Bootstrap",
+                    "HTML",
+                    "Git",
+                    "Assembla",
+                    "2 Week Scrum Cycle",
+                    "IMI Call/SMS API",
+                    "Kenscio Email",
+                    "Codeigniter",
+                    "Laravel 5",
+                    "Apache",
+                    "S3 Bucket",
+                    "AngularJs"
+                ],
+                "Soft_skills": [
+                    "Requirement Analysis",
+                    "Team Lead",
+                    "Code review",
+                    "Product Support",
+                    "Mentorship",
+                    "Performance report",
+                    "Marketing",
+                    "Finance",
+                    "Project Management",
+                    "Estimation",
+                    "Task Discussion with Lead",
+                    "Discussion with product team",
+                    "Task Estimation"
+                ],
+                "description": "Harayana (Product Based Company)\nKey Points:\n\u2022 Worked closely with product team to develop new requirements like redemption process and user purchase and bonus distribution flow on the basis of user's game play activities.\n\u2022 Defined Credit/Debit system in Adda52 product for all chips transactions.\n\u2022 Worked with Compliance team to resolve user queries for Purchase and redemption at early stage.\n\u2022 Scaled system internal transaction (Bonus distribution) as well as gateway transactions up to 100 TPS by implement queuing system\n\u2022 Worked with Finance team to validate reconciliation report and bad debt.\n\u2022 Handled cross platform team of product support, resolved bugs and provide root cause analysis\n\u2022 Design database schemas for entire product and implement index to optimize query speed.\n\u2022 Introduced automated marketing tools into Adda52 and give free hand to marketing teams. Implement marketing tools using Rabbit MQ queuing system. Tools: Gamooga, WebEngage, HasOffers, Appflyer\n\u2022 Created Data lake in Snowflake and Pipeline using Hevo tool for Mysql, and Mongo data. Also Perform ETL operations on Snowflake.\n\u2022 Developed CMS and Website using Laravel, Redis, Queue, Command, Multiple Mysql DB Connections\n\nGaussian Networks Projects:\n1. Adda52.com Website:\nDescription: We have Develop many API for Android and IOS Team, Systematic Transform Website from PHP to NodeJs. Token based Authentication.\nRole: Mentor Team (3 Dev, 2 QA, 1 UI Dev), Code review, Module Development, Requirement Analysis, Task Estimation, Task Discussion with product team.\nTechnologies Used: Microservice Architecture, Payment Gateway, MongoDB, MySQL, NodeJs (Express), Nginx, Bootstrap, HTML, Git, Assembla, Webengage, Redis, RabbitMQ, 2 Week Scrum Cycle\nStatus: Live\n2. Adda52.com CRM and Compliance Portal:\nDescription: CRM panel for Internal team. Send SMS/Email, Call Users using Panel, Payment gateway Transaction Status, Withdrawal management, Approve withdraw and instant payment to Users using Rabbit MQ, manage User support ticket, user game play and all information related to user. 2 Lavel approval for critical actions with email notification.\nRole: Mentor Team (3 Dev, 2 QA, 1 UI Dev), Code review, Module Development, Requirement Analysis, Task Estimation, Task Discussion with product team.\nTechnologies Used: MySQL, Codeigniter, Nginx, Bootstrap, HTML, Git, Assembla, 2 Week Scrum Cycle, Rabbit MQ, IMI Call/SMS API, Kenscio Email\nStatus: Live\n3. Adda52.com CMS Portal:\nDescription: Website content management system was developed In house for SEO team. Content approval\nRole: Mentor Team (3 Dev, 2 QA, 1 UI Dev), Code review, Module Development, Requirement Analysis, Task Estimation, Task Discussion with product team.\nTechnologies Used: MySQL, Codeigniter, Nginx, Bootstrap, HTML, Git, Assembla, 2 Week Scrum Cycle\nStatus: Live\n4. Adda52.com Reactivation Portal:\nDescription: Portal for Reactivation team, Create campaign, Add user in campaign, Add Agent, Manage Agent, Automatic distribution of data to Agent using Rabbit MQ for new Signups, Agents performance report.\nRole: Mentor Team (3 Dev, 2 QA, 1 UI Dev), Code review, Module Development, Requirement Analysis, Task Estimation, Task Discussion with product team.\nTechnologies Used: MySQL, Codeigniter, Nginx, Bootstrap, HTML, Git, Assembla, 2 Week Scrum Cycle, Rabbit MQ, IMI Call/SMS API, Kenscio Email\nStatus: Live\n5. Adda52.com Acquisition Portal:\nDescription: Provide a system to track user signup, fetch reports DAU, MAU, and many more reports. Affiliate performance report, Create Landing pages from backend.\nRole: Mentor Team (3 Dev, 2 QA, 1 UI Dev), Code review, Module Development, Requirement Analysis, Task Estimation, Task Discussion with product team.\nTechnologies Used: MySQL, Laravel, Nginx, Bootstrap, HTML, Git, Assembla, 2 Week Scrum Cycle\nStatus: Live\n6. Adda52.com Affiliate Portal:\nDescription: Panel for external affiliate, Affiliate can track user performance register via affiliate, Affiliate commission, Add Affiliate, Manage Affiliate, Affiliate Payout, Affiliate approval\nRole: Developer, Peer Code review, Requirement Analysis, Task Estimation, Task Discussion with Lead.\nTechnologies Used: MySQL, Laravel, Nginx, Bootstrap, HTML, Git, Assembla, 2 Week Scrum Cycle\nStatus: Live\n7. Adda52.com Banner Panel:\nDescription: We have created a common panel to manage banner for all adda52.com website from one source.\nRole: Developer, Peer Code review, Requirement Analysis, Task Estimation, Task Discussion with Lead.\nTechnologies Used: MySQL, NodeJs, Nginx, Bootstrap, HTML, Git, Assembla, 2 Week Scrum Cycle, S3 Bucket, AngularJs\nStatus: Live\n8. Adda52.com Data Portal:\nDescription: Portal to fetch data from slave database. This portal is used by Marketing and finance team to get user data.\nRole: Developer, Requirement Analysis, Task Discussion with Lead, Discussion with product team.\nTechnologies Used: MySQL, Laravel 5, Apache, Bootstrap, HTML, Git, Assembla\nStatus: Live\n\n9. Adda52 Poker School:\nDescription: Developed a website to educate New users about poker and give credit on video completion. Earned credit can be used by user to play poker on main website.\nRole: Developer, Requirement Analysis, Task Discussion with Lead, Discussion with product team.\nTechnologies Used: MySQL, Laravel 5, Apache, Bootstrap, HTML, Git, Assembla\nStatus: Archived by management\n\n10. Adda52 Microdomain Websites:\nDescription: Created micro website to run landing pages for Acquisition team. They can manage landing pages from backend\nRole: Developer, Peer Code review, Requirement Analysis, Task Discussion with Lead.\nTechnologies Used: MySQL, Laravel 5, Apache, Bootstrap, HTML, Git, Assembla\nStatus: Archived (New structure created in NodeJs)"
+            },
+            {
+                "project_name": {
+                    "Raw": "Sr. PHP Developer",
+                    "Normalized": "Senior PHP Developer",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "PHP Developer"
+                    ]
+                },
+                "tools_used/skill_used": [
+                    "PHP Framework",
+                    "Codeigniter",
+                    "MySQL",
+                    "JavaScript",
+                    "jQuery",
+                    "Google Campaigns",
+                    "SEO",
+                    "Codeigniter",
+                    "Mysql",
+                    "HTML",
+                    "jQuery"
+                ],
+                "Soft_skills": [
+                    "Requirement gathering",
+                    "Project Design and Implementation",
+                    "Module Development",
+                    "Task Estimation",
+                    "Task Discussion with team lead",
+                    "Support"
+                ],
+                "description": "Haryana (Product Based)\nKey Points:\n\u2022 POC on new technologies, software packages and hardware products for use in website projects.\n\u2022 Collected, defined and translated Toyota and Kamdhenu requirements into project designs and implementation plans.\n\u2022 Developed, coded and updated ERP modules like CRM and Inventory and worked on One page sites for in house product.\n\u2022 Used programming capabilities in PHP Framework like Codeigniter, MySQL and JavaScript, jQuery and other libraries as needed.\n\u2022 Develop some module and Provided support to Toyota and Kamdhenu for ERP implementation. I got certificate of excellent support\n\u2022 Implemented Google Campaigns and SEO for various types of websites.\n\nSinghal System Projects\n1. ERP Portal:\nDescription: Customize Existing ERP Web Portal According to Company Client Toyota and Kamdhenu. This was inventory management system\nRole: Developer, Module Development, Task Estimation, Task Discussion with team lead.\nTechnologies Used: Codeigniter, Mysql, HTML, jQuery\nStatus: Live"
+            },
+            {
+                "project_name": {
+                    "Raw": "PHP Developer",
+                    "Normalized": "PHP Developer",
+                    "Probability": "Confident"
+                },
+                "tools_used/skill_used": [
+                    "PHP",
+                    "SQL",
+                    "JavaScript",
+                    "HTML",
+                    "CSS",
+                    "Content Management Systems"
+                ],
+                "Soft_skills": [
+                    "Requirement gathering",
+                    "Project Design and Implementation",
+                    "User Support",
+                    "Communication",
+                    "Problem-solving"
+                ],
+                "description": "Delhi\n\u2022 Collected, defined and translated user requirements into project designs and implementation plans.\n\u2022 Completed full redesigns of existing websites to improve navigation, enhance visuals and strengthen search engine rankings.\n\u2022 Created site layout and user interface using HTML and CSS practices.\n\u2022 Delivered user support to clients to train, educate and answer questions.\n\u2022 Created powerful Content Management Systems to serve as interface for client.\n\u2022 Used programming capabilities in PHP, SQL and JavaScript and other 3rd party libraries as needed."
+            },
+            {
+                "project_name": {
+                    "Raw": "Junior Web Developer",
+                    "Normalized": "Junior Web Developer",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Web Developer"
+                    ]
+                },
+                "tools_used/skill_used": [
+                    "PHP",
+                    "SQL",
+                    "JavaScript",
+                    "Content Management Systems"
+                ],
+                "Soft_skills": [
+                    "Troubleshooting",
+                    "Unit Testing"
+                ],
+                "description": "\u2022 Used programming capabilities in PHP, SQL and JavaScript and other libraries as needed.\n\u2022 Created powerful Content Management Systems to serve as interface for client.\n\u2022 Tested websites and performed troubleshooting prior to deployment.\n\u2022 Created web applications and components using PHP programming language.\n\u2022 Conducted unit testing to deliver optimal browser functionality."
+            }
+        ]
+    },
+    {
+        "Document ID": "644ce07878e8fc84119ab0cd",
+        "Full Name": "Mohd Saquib Siddiqui",
+        "Email": "mohd_saquib@yopmail.com",
+        "Phone Number": "9336768880",
+        "Current Job Title": "Technology Specialist",
+        "City": "Prayagraj (Allahabad)",
+        "State": "UP",
+        "Country Code": "91",
+        "LinkedIn Profile": "",
+        "GitHub Profile": "",
+        "Portfolio Website": "",
+        "Work Experience": 7,
+        "Education": [
+            {
+                "degree": "B. Tech.",
+                "specialization": "EEE",
+                "institution": "UPTU Lucknow",
+                "year": "2012"
+            },
+            {
+                "degree": "Intermediate",
+                "specialization": "ISC Board",
+                "institution": "ISC Board",
+                "year": "2008"
+            },
+            {
+                "degree": "High School",
+                "specialization": "ICSE Board",
+                "institution": "ICSE Board",
+                "year": "2006"
+            },
+            {
+                "degree": "CADD",
+                "specialization": "Electrical",
+                "institution": "Vedant, Lucknow",
+                "year": "Not Available, but likely before 2012"
+            }
+        ],
+        "Employment History": [
+            {
+                "designation": "Technology Specialist",
+                "company": "Stelling Technologies Railyatri",
+                "from": "2021-08-01",
+                "to": "Present",
+                "aboutRole": "Working as a team Lead. Primarily dedicated to resolve bug risen, Introducing new modules to the team for development, Error monitoring and resolving. Some Architectural involvement. Primarily working on technologies like Ruby on Rails, Mysql, MongoDB, Redis, NodeJS, ExpressJS, Ajax",
+                "techUsed": [],
+                "toolUsed": [],
+                "stillWorking": true,
+                "location": ""
+            },
+            {
+                "designation": "Senior Software Engineer",
+                "company": "ZH Healthcare",
+                "from": "2020-11-01",
+                "to": "2021-06-01",
+                "aboutRole": "Working as a Software Developer in the team. Primarily dedicated to resolve bug risen during platform upgradation.\nI also helped integrate google translator API for application translation issues. Technologies used here are ZF2, ZF3 and mysql in backend and javascript and jquery as frontend technologies.",
+                "techUsed": [],
+                "toolUsed": [],
+                "stillWorking": false,
+                "location": ""
+            },
+            {
+                "designation": "Software Engineer",
+                "company": "Appy Pie",
+                "from": "2019-06-01",
+                "to": "2020-05-01",
+                "aboutRole": "Working as a Software Developer in the team. Working on integrating common payment gateways. Integrated multiple gateways using Rest APIs. The module was carried forward using technologies like: Zend, CorePHP, MongoDB, MySQL, AngularJS and Node JS. I was asked to develop such a module so that anyone can integrate payment gateway without resubmitting the Mobile Apps. Communicate between two different database and keeping the system optimized.",
+                "techUsed": [],
+                "toolUsed": [],
+                "stillWorking": false,
+                "location": ""
+            },
+            {
+                "designation": "Sidkes Consultant",
+                "company": "",
+                "from": "2019-01-01",
+                "to": "2019-06-01",
+                "aboutRole": "Sr. PHP Consultant\nWorking as a Sr. Php consultant and handling the team. Currently working on Laravel Project for Micromax India. The project was to deliver movies directly to the client in an encrypted format. The Initial stage was to develop and monitor those clients who have paid and movies can be delivered. Apart from that I was also involved in developing api in NodeJS.",
+                "techUsed": [],
+                "toolUsed": [],
+                "stillWorking": false,
+                "location": ""
+            },
+            {
+                "designation": "Software Developer Web",
+                "company": "SequelOne Solutions",
+                "from": "2018-05-01",
+                "to": "2018-11-01",
+                "aboutRole": "Working in a Product based Company. Developing new module and fixing existing one as per the requirement. Using technologies: Codeigniter, Core PHP, MSSQL, jquery, Ajax, and 3rd party plugins like datatabled, Kendu UI grid, etc.",
+                "techUsed": [],
+                "toolUsed": [],
+                "stillWorking": false,
+                "location": ""
+            },
+            {
+                "designation": "Developer",
+                "company": "Haqs",
+                "from": "2014-08-01",
+                "to": "2017-11-01",
+                "aboutRole": "Working in a fast paced, dynamic environment and being responsible for determining all necessary coding requirements for a sites creation including forms, e-commerce capability and specialized scripts",
+                "techUsed": [],
+                "toolUsed": [],
+                "stillWorking": false,
+                "location": ""
+            },
+            {
+                "designation": "Service Engineer",
+                "company": "VewoldTechologies",
+                "from": "2012-07-01",
+                "to": "2013-04-01",
+                "aboutRole": "Served the company as a SERVICE ENGINEER for 10 Months. We were offered to troubleshooting the developed program for the automation industries.",
+                "techUsed": [],
+                "toolUsed": [],
+                "stillWorking": false,
+                "location": ""
+            }
+        ],
+        "Work Preference": [
+            "onsite"
+        ],
+        "Skills": [
+            ".NET",
+            "AJAX",
+            "API",
+            "Angularjs",
+            "Apache",
+            "Applications Development",
+            "Auto Cad",
+            "Autocad",
+            "Bootstrap",
+            "CSS",
+            "Codeigniter",
+            "Coding",
+            "Corel Draw",
+            "Database",
+            "Database Management",
+            "Dreamweaver",
+            "Fanuc",
+            "Flight Safety",
+            "Forge",
+            "Frameworks",
+            "Git",
+            "HTML",
+            "Healthcare",
+            "Human Resource Management",
+            "Industrial Automation",
+            "JAVA",
+            "Javascript",
+            "Jquery",
+            "Lamp Stack",
+            "Laravel",
+            "MVC",
+            "Microservice",
+            "Microsoft Windows",
+            "Model View Controller",
+            "Model-View-Controller",
+            "Mongodb",
+            "Mysql",
+            "Node.JS",
+            "PHP",
+            "Pharmacy",
+            "Photoshop",
+            "Process Automation",
+            "Programmable Logic Controller",
+            "REST",
+            "Redis",
+            "Robotics",
+            "Ruby",
+            "Scada",
+            "Service Engineer",
+            "Shell Scripting",
+            "Team Lead",
+            "Team Player",
+            "Technical Specifications",
+            "Translator",
+            "User Interface",
+            "Wordpress",
+            "Zend"
+        ],
+        "Languages Known": [
+            "English",
+            "Hindi",
+            "Urdu"
+        ],
+        "Projects": [
+            {
+                "project_name": {
+                    "Raw": "Technology Specialist",
+                    "Normalized": "Technology Specialist",
+                    "Probability": "Confident"
+                },
+                "tools_used/skill_used": [
+                    "Ruby on Rails",
+                    "Mysql",
+                    "MongoDB",
+                    "Redis",
+                    "NodeJS",
+                    "ExpressJS",
+                    "Ajax"
+                ],
+                "Soft_skills": [
+                    "Team Lead",
+                    "Error monitoring"
+                ],
+                "description": "Working as a team Lead. Primarily dedicated to resolve bug risen, Introducing new modules to the team for development, Error monitoring and resolving. Some Architectural involvement. Primarily working on technologies like Ruby on Rails, Mysql, MongoDB, Redis, NodeJS, ExpressJS, Ajax"
+            },
+            {
+                "project_name": {
+                    "Raw": "Senior Software Engineer",
+                    "Normalized": "Senior Software Engineer",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Software Engineer"
+                    ]
+                },
+                "tools_used/skill_used": [
+                    "ZF2",
+                    "ZF3",
+                    "mysql",
+                    "javascript",
+                    "jquery",
+                    "google translator API"
+                ],
+                "Soft_skills": [
+                    "Problem-solving"
+                ],
+                "description": "Working as a Software Developer in the team. Primarily dedicated to resolve bug risen during platform upgradation.\nI also helped integrate google translator API for application translation issues. Technologies used here are ZF2, ZF3 and mysql in backend and javascript and jquery as frontend technologies."
+            },
+            {
+                "project_name": {
+                    "Raw": "Software Engineer",
+                    "Normalized": "Software Engineer",
+                    "Probability": "Confident"
+                },
+                "tools_used/skill_used": [
+                    "Zend",
+                    "CorePHP",
+                    "MongoDB",
+                    "MySQL",
+                    "AngularJS",
+                    "Node JS",
+                    "Rest APIs"
+                ],
+                "Soft_skills": [
+                    "Communication",
+                    "Problem-solving"
+                ],
+                "description": "Working as a Software Developer in the team. Working on integrating common payment gateways. Integrated multiple gateways using Rest APIs. The module was carried forward using technologies like: Zend, CorePHP, MongoDB, MySQL, AngularJS and Node JS. I was asked to develop such a module so that anyone can integrate payment gateway without resubmitting the Mobile Apps. Communicate between two different database and keeping the system optimized."
+            },
+            {
+                "project_name": {
+                    "Raw": "Sidkes Consultant",
+                    "Normalized": "Sidkes Consultant",
+                    "Probability": "Confident"
+                },
+                "tools_used/skill_used": [
+                    "Laravel",
+                    "NodeJS"
+                ],
+                "Soft_skills": [
+                    "Team Lead",
+                    "Consulting"
+                ],
+                "description": "Sr. PHP Consultant\nWorking as a Sr. Php consultant and handling the team. Currently working on Laravel Project for Micromax India. The project was to deliver movies directly to the client in an encrypted format. The Initial stage was to develop and monitor those clients who have paid and movies can be delivered. Apart from that I was also involved in developing api in NodeJS."
+            },
+            {
+                "project_name": {
+                    "Raw": "Software Developer - Web",
+                    "Normalized": "Software Developer Web",
+                    "Probability": "Confident",
+                    "Variations": [
+                        "Software Developer"
+                    ]
+                },
+                "tools_used/skill_used": [
+                    "Codeigniter",
+                    "Core PHP",
+                    "MSSQL",
+                    "jquery",
+                    "Ajax",
+                    "datatabled",
+                    "Kendu UI grid"
+                ],
+                "Soft_skills": [],
+                "description": "Working in a Product based Company. Developing new module and fixing existing one as per the requirement. Using technologies: Codeigniter, Core PHP, MSSQL, jquery, Ajax, and 3rd party plugins like datatabled, Kendu UI grid, etc."
+            },
+            {
+                "project_name": {
+                    "Raw": "Developer",
+                    "Normalized": "Developer",
+                    "Probability": "Confident"
+                },
+                "tools_used/skill_used": [],
+                "Soft_skills": [
+                    "Coding",
+                    "Problem-solving"
+                ],
+                "description": "Working in a fast paced, dynamic environment and being responsible for determining all necessary coding requirements for a sites creation including forms, e-commerce capability and specialized scripts"
+            },
+            {
+                "project_name": {
+                    "Raw": "Service Engineer",
+                    "Normalized": "Service Engineer",
+                    "Probability": "Confident"
+                },
+                "tools_used/skill_used": [],
+                "Soft_skills": [
+                    "Troubleshooting"
+                ],
+                "description": "Served the company as a SERVICE ENGINEER for 10 Months. We were offered to troubleshooting the developed program for the automation industries."
+            }
+        ]
+    },
+    {
+        "Document ID": "644ce07a78e8fc84119ab11a",
+        "Full Name": "Aniket Patil",
+        "Email": "aniket.patil196@yopmail.com",
+        "Phone Number": "9821928564",
+        "Current Job Title": "Full Stack Developer",
+        "City": "Mumbai",
+        "State": "Maharashtra",
+        "Country Code": "91",
+        "LinkedIn Profile": "",
+        "GitHub Profile": "",
+        "Portfolio Website": "",
+        "Work Experience": 4,
+        "Education": [
+            {
+                "degree": "Bachelor of Computer Engineering",
+                "specialization": "Computer Engineering",
+                "institution": "Terna Engineering College Mumbai University",
+                "year": "2014-2018"
+            }
+        ],
+        "Employment History": [
+            {
+                "designation": "Full Stack Developer",
+                "company": "Orbo.ai Maharashtra",
+                "from": "2021-07-01",
+                "to": "Present",
+                "aboutRole": "Built entire skincare web-app from scratch using Reactjs, which offers AI based skin scores.The\nmain C++ logic was communicated with using the NAPI module. Handle concurrent requests using the node cluster module (PM2) and reduce api response time by 30% with worker threads.\nScale the super-enhance API to handle 500 images/min across 6 geographic locations. Created a\ndashboard to track api requests. Utilised time-triggered Azure functions to store API responses.\nBuilt the whole backend rest API's for superink including the database architecture from scratch, which enables AI-based image tagging and generates nine various types of content. Third-party\nAPI integration, such as sendgrid and the razorpay payment gateway.\nBuilt the full backend rest API's, including the database structure from scratch, for managing\nAmazon multiple image requests, which must be routed through padding cropping, background\nremoval, and super resolution apis built in python. Integrated third part api magic clipping.\nHandled each stage of the deployment procedure, including setting up the host file, pointing the\ndomain at the server, and delivering the application via Docker. Integrated Winston logger for logging. Worked on docker volume for generating so file for various ubuntu versions.",
+                "techUsed": [],
+                "toolUsed": [],
+                "stillWorking": true,
+                "location": "Mumbai"
+            },
+            {
+                "designation": "Software Developer",
+                "company": "Tata Communications Maharashtra",
+                "from": "2018-07-16",
+                "to": "2021-06-30",
+                "aboutRole": "Created an alert system that tells the user if traffic lowers or rises above a given threshold. Using\na third-party API call, save the monthly traffic data of 1000 ASNs with three different traffic\ndirections. Use python libraries like pandas, numpy and requests. Store data in SQL database.\nCreated a tool that would deliver a detailed report on a certain consumer over the last three\nmonths. This report will cover traffic from customers to customers, peers to peers, and peers to customers. Developed a python script to produce comprehensive reports.\nDeveloped a web application that displays the total capacity subscribed by each peer connected to Tata Communications in a separate region. The peering manager can also have admin access\nand choose whether the data should be kept private or made available to other teams.\nMy job was to design the complete webapp, including the frontend and backend.",
+                "techUsed": [],
+                "toolUsed": [],
+                "stillWorking": false,
+                "location": "Mumbai"
+            }
+        ],
+        "Work Preference": [
+            "onsite"
+        ],
+        "Skills": [
+            "API",
+            "Authentication",
+            "C++",
+            "Database",
+            "Database Architecture",
+            "Deployment",
+            "Docker",
+            "Firebase",
+            "Frameworks",
+            "Git",
+            "Javascript",
+            "Logging",
+            "MAC",
+            "Mongodb",
+            "Node.JS",
+            "Peering",
+            "Python",
+            "Reactjs",
+            "Redux",
+            "SQL",
+            "Ubuntu"
+        ],
+        "Languages Known": [
+            "English"
+        ],
+        "Projects": [
+            {
+                "project_name": {
+                    "Raw": "Full Stack Developer",
+                    "Normalized": "Full Stack Developer",
+                    "Probability": "Confident"
+                },
+                "tools_used/skill_used": [
+                    "Reactjs",
+                    "C++",
+                    "NAPI module",
+                    "node cluster module (PM2)",
+                    "Azure functions",
+                    "sendgrid",
+                    "razorpay payment gateway",
+                    "python",
+                    "Docker",
+                    "Winston logger",
+                    "docker volume",
+                    "ubuntu"
+                ],
+                "Soft_skills": [
+                    "Problem-solving",
+                    "Scaling",
+                    "Database architecture",
+                    "API integration",
+                    "Deployment"
+                ],
+                "description": "Built entire skincare web-app from scratch using Reactjs, which offers AI based skin scores.The\nmain C++ logic was communicated with using the NAPI module. Handle concurrent requests using the node cluster module (PM2) and reduce api response time by 30% with worker threads.\nScale the super-enhance API to handle 500 images/min across 6 geographic locations. Created a\ndashboard to track api requests. Utilised time-triggered Azure functions to store API responses.\nBuilt the whole backend rest API's for superink including the database architecture from scratch, which enables AI-based image tagging and generates nine various types of content. Third-party\nAPI integration, such as sendgrid and the razorpay payment gateway.\nBuilt the full backend rest API's, including the database structure from scratch, for managing\nAmazon multiple image requests, which must be routed through padding cropping, background\nremoval, and super resolution apis built in python. Integrated third part api magic clipping.\nHandled each stage of the deployment procedure, including setting up the host file, pointing the\ndomain at the server, and delivering the application via Docker. Integrated Winston logger for logging. Worked on docker volume for generating so file for various ubuntu versions."
+            },
+            {
+                "project_name": {
+                    "Raw": "Software Developer",
+                    "Normalized": "Software Developer",
+                    "Probability": "Confident"
+                },
+                "tools_used/skill_used": [
+                    "pandas",
+                    "numpy",
+                    "requests",
+                    "SQL database",
+                    "python",
+                    "webapp",
+                    "frontend",
+                    "backend"
+                ],
+                "Soft_skills": [
+                    "Problem-solving",
+                    "Web app design"
+                ],
+                "description": "Created an alert system that tells the user if traffic lowers or rises above a given threshold. Using\na third-party API call, save the monthly traffic data of 1000 ASNs with three different traffic\ndirections. Use python libraries like pandas, numpy and requests. Store data in SQL database.\nCreated a tool that would deliver a detailed report on a certain consumer over the last three\nmonths. This report will cover traffic from customers to customers, peers to peers, and peers to customers. Developed a python script to produce comprehensive reports.\nDeveloped a web application that displays the total capacity subscribed by each peer connected to Tata Communications in a separate region. The peering manager can also have admin access\nand choose whether the data should be kept private or made available to other teams.\nMy job was to design the complete webapp, including the frontend and backend."
+            }
+        ]
+    }
+]

@@ -1,7 +1,7 @@
 import company
 import json
 import stability
-from cleaned import process_single_resume
+from cleaned import process_all_resume
 import location
 import os
 from dotenv import load_dotenv
@@ -14,7 +14,7 @@ GEMINI_MODEL = os.getenv("GEMINI_MODEL")
 
 async def main():
     # Extract personal details from the resume
-    cleaned_data = await process_single_resume()
+    cleaned_data = await process_all_resume()
     
     # Extract location details asynchronously
     city = cleaned_data.get("City", "")

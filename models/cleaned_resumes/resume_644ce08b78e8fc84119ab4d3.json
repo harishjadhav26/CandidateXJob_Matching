@@ -1,0 +1,356 @@
+{
+    "Document ID": "644ce08b78e8fc84119ab4d3",
+    "Full Name": "Mohan Sharma",
+    "Email": "sms.2359@yopmail.com",
+    "Phone Number": "9911157063",
+    "Current Job Title": "Technical Head - Web Development",
+    "City": "GURUGRAM",
+    "State": "Haryana",
+    "Country Code": "91",
+    "LinkedIn Profile": "",
+    "GitHub Profile": "",
+    "Portfolio Website": "",
+    "Work Experience": 12,
+    "Education": [
+        {
+            "degree": "B.E(CSE)",
+            "specialization": "B.E(CSE)",
+            "institution": "Marathawada University",
+            "year": "2010"
+        },
+        {
+            "degree": "Diploma: software Engineering",
+            "specialization": "software Engineering",
+            "institution": "NIIT",
+            "year": "2006"
+        },
+        {
+            "degree": "Science",
+            "specialization": "Science",
+            "institution": "Higher Secondary School",
+            "year": "2004"
+        },
+        {
+            "degree": "C.B.S.E. Board",
+            "specialization": "C.B.S.E. Board",
+            "institution": "Secondary School",
+            "year": "2002"
+        }
+    ],
+    "Employment History": [
+        {
+            "designation": "Technical Head Web Development",
+            "company": "VUME Interactive",
+            "from": "2021-09-01",
+            "to": "Present",
+            "aboutRole": "(Project Based)\nKey Points:\n\u2022 Supervise all employees in production and technical control departments, including assigning tasks, and ensuring compliance with timelines.\n\u2022 Communicate with production technicians and engineering personnel to improve coordination and efficiency during joint projects.\n\u2022 Coordinate with marketing directors/Manager to oversee promotional campaigns and improve results of marketing-related productions.\n\n\nVUME Projects:\n1. Spartan Poker Website:-\nDescription: Spartan poker is our parent organization. Current spartan poker website was developed by external agencies. Now, we are developing this website In-house. This project include Frontend website, Backend CMS, and Reports management.\nRole: I have gather all project requirements with Marketing team, Setup Laravel project, Integrate SOAP API, Architect Backend structure, Dynamic Menu, Fixed UI Bugs, Code review, Lead Team of four Member (2 Dev, 1 UI Dev, 1QA), Setup project on AWS EC2 Instance for staging\nTechnologies Used: Laravel 8, MySQL, Bootstrap, HTML, Webengage, SOAP API Integration, Git, Infinity for product management, Nginx\nStatus: On Staging Server\n2. iGaming Website:-\nDescription: This project include Frontend website, Backend CMS, and Categories games integration using backend. We are developing this for Poker Daddy Casio.\nRole: I have gather all project requirements with Marketing team, Setup Laravel project, Integrate SOAP API, Architect Backend structure, Fixed UI Bugs, Lead Team of four Member (2 Dev, 1 UI Dev, 1QA)\nTechnologies Used: Laravel 8, MySQL, Bootstrap, HTML, REST API Integration, Git, Infinity for product management, Nginx\nStatus: Under Development\n\n3. Aio.games Blog:-\nDescription: Spartan poker started multi gaming platform. I have setup it's blog using Wordpress. Theme was purchased but I have customized theme.\nRole: Setup project on AWS EC2 Instance for staging, Wordpress installation, Theme installation, Theme customization, Redirect blog.aio.games to aio.games/blog\nTechnologies Used: Wordpress, MySQL, Bootstrap, HTML, Nginx\nStatus: Live",
+            "techUsed": [],
+            "toolUsed": [],
+            "stillWorking": true,
+            "location": "Bangalore"
+        },
+        {
+            "designation": "Lead PHP Developer",
+            "company": "Gaussian Networks",
+            "from": "2014-05-01",
+            "to": "2021-09-01",
+            "aboutRole": "Harayana (Product Based Company)\nKey Points:\n\u2022 Worked closely with product team to develop new requirements like redemption process and user purchase and bonus distribution flow on the basis of user's game play activities.\n\u2022 Defined Credit/Debit system in Adda52 product for all chips transactions.\n\u2022 Worked with Compliance team to resolve user queries for Purchase and redemption at early stage.\n\u2022 Scaled system internal transaction (Bonus distribution) as well as gateway transactions up to 100 TPS by implement queuing system\n\u2022 Worked with Finance team to validate reconciliation report and bad debt.\n\u2022 Handled cross platform team of product support, resolved bugs and provide root cause analysis\n\u2022 Design database schemas for entire product and implement index to optimize query speed.\n\u2022 Introduced automated marketing tools into Adda52 and give free hand to marketing teams. Implement marketing tools using Rabbit MQ queuing system. Tools: Gamooga, WebEngage, HasOffers, Appflyer\n\u2022 Created Data lake in Snowflake and Pipeline using Hevo tool for Mysql, and Mongo data. Also Perform ETL operations on Snowflake.\n\u2022 Developed CMS and Website using Laravel, Redis, Queue, Command, Multiple Mysql DB Connections\n\nGaussian Networks Projects:\n1. Adda52.com Website:\nDescription: We have Develop many API for Android and IOS Team, Systematic Transform Website from PHP to NodeJs. Token based Authentication.\nRole: Mentor Team (3 Dev, 2 QA, 1 UI Dev), Code review, Module Development, Requirement Analysis, Task Estimation, Task Discussion with product team.\nTechnologies Used: Microservice Architecture, Payment Gateway, MongoDB, MySQL, NodeJs (Express), Nginx, Bootstrap, HTML, Git, Assembla, Webengage, Redis, RabbitMQ, 2 Week Scrum Cycle\nStatus: Live\n2. Adda52.com CRM and Compliance Portal:\nDescription: CRM panel for Internal team. Send SMS/Email, Call Users using Panel, Payment gateway Transaction Status, Withdrawal management, Approve withdraw and instant payment to Users using Rabbit MQ, manage User support ticket, user game play and all information related to user. 2 Lavel approval for critical actions with email notification.\nRole: Mentor Team (3 Dev, 2 QA, 1 UI Dev), Code review, Module Development, Requirement Analysis, Task Estimation, Task Discussion with product team.\nTechnologies Used: MySQL, Codeigniter, Nginx, Bootstrap, HTML, Git, Assembla, 2 Week Scrum Cycle, Rabbit MQ, IMI Call/SMS API, Kenscio Email\nStatus: Live\n3. Adda52.com CMS Portal:\nDescription: Website content management system was developed In house for SEO team. Content approval\nRole: Mentor Team (3 Dev, 2 QA, 1 UI Dev), Code review, Module Development, Requirement Analysis, Task Estimation, Task Discussion with product team.\nTechnologies Used: MySQL, Codeigniter, Nginx, Bootstrap, HTML, Git, Assembla, 2 Week Scrum Cycle\nStatus: Live\n4. Adda52.com Reactivation Portal:\nDescription: Portal for Reactivation team, Create campaign, Add user in campaign, Add Agent, Manage Agent, Automatic distribution of data to Agent using Rabbit MQ for new Signups, Agents performance report.\nRole: Mentor Team (3 Dev, 2 QA, 1 UI Dev), Code review, Module Development, Requirement Analysis, Task Estimation, Task Discussion with product team.\nTechnologies Used: MySQL, Codeigniter, Nginx, Bootstrap, HTML, Git, Assembla, 2 Week Scrum Cycle, Rabbit MQ, IMI Call/SMS API, Kenscio Email\nStatus: Live\n5. Adda52.com Acquisition Portal:\nDescription: Provide a system to track user signup, fetch reports DAU, MAU, and many more reports. Affiliate performance report, Create Landing pages from backend.\nRole: Mentor Team (3 Dev, 2 QA, 1 UI Dev), Code review, Module Development, Requirement Analysis, Task Estimation, Task Discussion with product team.\nTechnologies Used: MySQL, Laravel, Nginx, Bootstrap, HTML, Git, Assembla, 2 Week Scrum Cycle\nStatus: Live\n6. Adda52.com Affiliate Portal:\nDescription: Panel for external affiliate, Affiliate can track user performance register via affiliate, Affiliate commission, Add Affiliate, Manage Affiliate, Affiliate Payout, Affiliate approval\nRole: Developer, Peer Code review, Requirement Analysis, Task Estimation, Task Discussion with Lead.\nTechnologies Used: MySQL, Laravel, Nginx, Bootstrap, HTML, Git, Assembla, 2 Week Scrum Cycle\nStatus: Live\n7. Adda52.com Banner Panel:\nDescription: We have created a common panel to manage banner for all adda52.com website from one source.\nRole: Developer, Peer Code review, Requirement Analysis, Task Estimation, Task Discussion with Lead.\nTechnologies Used: MySQL, NodeJs, Nginx, Bootstrap, HTML, Git, Assembla, 2 Week Scrum Cycle, S3 Bucket, AngularJs\nStatus: Live\n8. Adda52.com Data Portal:\nDescription: Portal to fetch data from slave database. This portal is used by Marketing and finance team to get user data.\nRole: Developer, Requirement Analysis, Task Discussion with Lead, Discussion with product team.\nTechnologies Used: MySQL, Laravel 5, Apache, Bootstrap, HTML, Git, Assembla\nStatus: Live\n\n9. Adda52 Poker School:\nDescription: Developed a website to educate New users about poker and give credit on video completion. Earned credit can be used by user to play poker on main website.\nRole: Developer, Requirement Analysis, Task Discussion with Lead, Discussion with product team.\nTechnologies Used: MySQL, Laravel 5, Apache, Bootstrap, HTML, Git, Assembla\nStatus: Archived by management\n\n10. Adda52 Microdomain Websites:\nDescription: Created micro website to run landing pages for Acquisition team. They can manage landing pages from backend\nRole: Developer, Peer Code review, Requirement Analysis, Task Discussion with Lead.\nTechnologies Used: MySQL, Laravel 5, Apache, Bootstrap, HTML, Git, Assembla\nStatus: Archived (New structure created in NodeJs)",
+            "techUsed": [],
+            "toolUsed": [],
+            "stillWorking": false,
+            "location": "Gurgaon"
+        },
+        {
+            "designation": "Senior PHP Developer",
+            "company": "",
+            "from": "2013-04-01",
+            "to": "2014-05-01",
+            "aboutRole": "Haryana (Product Based)\nKey Points:\n\u2022 POC on new technologies, software packages and hardware products for use in website projects.\n\u2022 Collected, defined and translated Toyota and Kamdhenu requirements into project designs and implementation plans.\n\u2022 Developed, coded and updated ERP modules like CRM and Inventory and worked on One page sites for in house product.\n\u2022 Used programming capabilities in PHP Framework like Codeigniter, MySQL and JavaScript, jQuery and other libraries as needed.\n\u2022 Develop some module and Provided support to Toyota and Kamdhenu for ERP implementation. I got certificate of excellent support\n\u2022 Implemented Google Campaigns and SEO for various types of websites.\n\nSinghal System Projects\n1. ERP Portal:\nDescription: Customize Existing ERP Web Portal According to Company Client Toyota and Kamdhenu. This was inventory management system\nRole: Developer, Module Development, Task Estimation, Task Discussion with team lead.\nTechnologies Used: Codeigniter, Mysql, HTML, jQuery\nStatus: Live",
+            "techUsed": [],
+            "toolUsed": [],
+            "stillWorking": false,
+            "location": "Gurgaon"
+        },
+        {
+            "designation": "PHP Developer",
+            "company": "",
+            "from": "2012-10-01",
+            "to": "2013-04-01",
+            "aboutRole": "Delhi\n\u2022 Collected, defined and translated user requirements into project designs and implementation plans.\n\u2022 Completed full redesigns of existing websites to improve navigation, enhance visuals and strengthen search engine rankings.\n\u2022 Created site layout and user interface using HTML and CSS practices.\n\u2022 Delivered user support to clients to train, educate and answer questions.\n\u2022 Created powerful Content Management Systems to serve as interface for client.\n\u2022 Used programming capabilities in PHP, SQL and JavaScript and other 3rd party libraries as needed.",
+            "techUsed": [],
+            "toolUsed": [],
+            "stillWorking": false,
+            "location": "Delhi"
+        },
+        {
+            "designation": "Junior Web Developer",
+            "company": "RensoftGlobal",
+            "from": "2012-01-01",
+            "to": "2012-10-01",
+            "aboutRole": "\u2022 Used programming capabilities in PHP, SQL and JavaScript and other libraries as needed.\n\u2022 Created powerful Content Management Systems to serve as interface for client.\n\u2022 Tested websites and performed troubleshooting prior to deployment.\n\u2022 Created web applications and components using PHP programming language.\n\u2022 Conducted unit testing to deliver optimal browser functionality.",
+            "techUsed": [],
+            "toolUsed": [],
+            "stillWorking": false,
+            "location": "Noida"
+        }
+    ],
+    "Work Preference": [
+        "onsite"
+    ],
+    "Skills": [
+        "AJAX",
+        "API",
+        "Agile",
+        "Amazon Elastic Compute Cloud",
+        "Android",
+        "Angularjs",
+        "Apache",
+        "Authentication",
+        "B2B Software",
+        "Bootstrap",
+        "CMS",
+        "CRM",
+        "CSS",
+        "Codeigniter",
+        "Content Management System",
+        "Content Management Systems",
+        "Credit/Debit",
+        "Customer Relationship Management",
+        "Data Analytics",
+        "Data Science",
+        "Database",
+        "Deployment",
+        "ERP",
+        "ETL",
+        "Employee Resource Group",
+        "Enterprise Resource Planning",
+        "Estimation",
+        "Finance",
+        "Gather Requirements",
+        "Git",
+        "HTML",
+        "IOS",
+        "Inventory",
+        "Inventory Management",
+        "Javascript",
+        "Jquery",
+        "Lamp Stack",
+        "Laravel",
+        "Linux",
+        "MVC",
+        "Machine Learning",
+        "Marketing",
+        "Mentor",
+        "Microservice",
+        "Model View Controller",
+        "Model-View-Controller",
+        "Mongodb",
+        "Mysql",
+        "Nginx",
+        "Node.JS",
+        "Operations",
+        "PHP",
+        "Pipeline",
+        "Predictive Modeling",
+        "Product Architecture",
+        "Product Management",
+        "Product Support",
+        "Project Management",
+        "Python",
+        "QA",
+        "Queue Management",
+        "REST",
+        "RabbitMQ",
+        "Reconciliation",
+        "Redis",
+        "Requirement Analysis",
+        "Root Cause Analysis",
+        "SMS",
+        "SOAP",
+        "SQL",
+        "Scrum",
+        "Search Engine",
+        "Search Engine Optimization",
+        "Site Layout",
+        "Structured Software",
+        "TPS",
+        "Team Lead",
+        "Translated",
+        "Ubuntu",
+        "Unit Testing",
+        "User Interface",
+        "Vertica",
+        "WEB Portal",
+        "WEB Server",
+        "Wordpress"
+    ],
+    "Languages Known": [
+        "English"
+    ],
+    "Projects": [
+        {
+            "project_name": {
+                "Raw": "Technical Head - Web Development",
+                "Normalized": "Technical Head Web Development",
+                "Probability": "Confident",
+                "Variations": [
+                    "Technical Head"
+                ]
+            },
+            "tools_used/skill_used": [
+                "Laravel 8",
+                "MySQL",
+                "Bootstrap",
+                "HTML",
+                "Webengage",
+                "SOAP API Integration",
+                "Git",
+                "Infinity for product management",
+                "Nginx",
+                "REST API Integration",
+                "Wordpress"
+            ],
+            "Soft_skills": [
+                "Supervise",
+                "Communication",
+                "Coordination",
+                "Project Management",
+                "Code review",
+                "Team Lead"
+            ],
+            "description": "(Project Based)\nKey Points:\n\u2022 Supervise all employees in production and technical control departments, including assigning tasks, and ensuring compliance with timelines.\n\u2022 Communicate with production technicians and engineering personnel to improve coordination and efficiency during joint projects.\n\u2022 Coordinate with marketing directors/Manager to oversee promotional campaigns and improve results of marketing-related productions.\n\n\nVUME Projects:\n1. Spartan Poker Website:-\nDescription: Spartan poker is our parent organization. Current spartan poker website was developed by external agencies. Now, we are developing this website In-house. This project include Frontend website, Backend CMS, and Reports management.\nRole: I have gather all project requirements with Marketing team, Setup Laravel project, Integrate SOAP API, Architect Backend structure, Dynamic Menu, Fixed UI Bugs, Code review, Lead Team of four Member (2 Dev, 1 UI Dev, 1QA), Setup project on AWS EC2 Instance for staging\nTechnologies Used: Laravel 8, MySQL, Bootstrap, HTML, Webengage, SOAP API Integration, Git, Infinity for product management, Nginx\nStatus: On Staging Server\n2. iGaming Website:-\nDescription: This project include Frontend website, Backend CMS, and Categories games integration using backend. We are developing this for Poker Daddy Casio.\nRole: I have gather all project requirements with Marketing team, Setup Laravel project, Integrate SOAP API, Architect Backend structure, Fixed UI Bugs, Lead Team of four Member (2 Dev, 1 UI Dev, 1QA)\nTechnologies Used: Laravel 8, MySQL, Bootstrap, HTML, REST API Integration, Git, Infinity for product management, Nginx\nStatus: Under Development\n\n3. Aio.games Blog:-\nDescription: Spartan poker started multi gaming platform. I have setup it's blog using Wordpress. Theme was purchased but I have customized theme.\nRole: Setup project on AWS EC2 Instance for staging, Wordpress installation, Theme installation, Theme customization, Redirect blog.aio.games to aio.games/blog\nTechnologies Used: Wordpress, MySQL, Bootstrap, HTML, Nginx\nStatus: Live"
+        },
+        {
+            "project_name": {
+                "Raw": "Lead PHP Developer",
+                "Normalized": "Lead PHP Developer",
+                "Probability": "Confident"
+            },
+            "tools_used/skill_used": [
+                "Rabbit MQ",
+                "Gamooga",
+                "WebEngage",
+                "HasOffers",
+                "Appflyer",
+                "Snowflake",
+                "Hevo tool",
+                "Mysql",
+                "Mongo data",
+                "Laravel",
+                "Redis",
+                "Queue",
+                "Command",
+                "Microservice Architecture",
+                "Payment Gateway",
+                "MongoDB",
+                "MySQL",
+                "NodeJs (Express)",
+                "Nginx",
+                "Bootstrap",
+                "HTML",
+                "Git",
+                "Assembla",
+                "2 Week Scrum Cycle",
+                "IMI Call/SMS API",
+                "Kenscio Email",
+                "Codeigniter",
+                "Laravel 5",
+                "Apache",
+                "S3 Bucket",
+                "AngularJs"
+            ],
+            "Soft_skills": [
+                "Requirement Analysis",
+                "Team Lead",
+                "Code review",
+                "Product Support",
+                "Mentorship",
+                "Performance report",
+                "Marketing",
+                "Finance",
+                "Project Management",
+                "Estimation",
+                "Task Discussion with Lead",
+                "Discussion with product team",
+                "Task Estimation"
+            ],
+            "description": "Harayana (Product Based Company)\nKey Points:\n\u2022 Worked closely with product team to develop new requirements like redemption process and user purchase and bonus distribution flow on the basis of user's game play activities.\n\u2022 Defined Credit/Debit system in Adda52 product for all chips transactions.\n\u2022 Worked with Compliance team to resolve user queries for Purchase and redemption at early stage.\n\u2022 Scaled system internal transaction (Bonus distribution) as well as gateway transactions up to 100 TPS by implement queuing system\n\u2022 Worked with Finance team to validate reconciliation report and bad debt.\n\u2022 Handled cross platform team of product support, resolved bugs and provide root cause analysis\n\u2022 Design database schemas for entire product and implement index to optimize query speed.\n\u2022 Introduced automated marketing tools into Adda52 and give free hand to marketing teams. Implement marketing tools using Rabbit MQ queuing system. Tools: Gamooga, WebEngage, HasOffers, Appflyer\n\u2022 Created Data lake in Snowflake and Pipeline using Hevo tool for Mysql, and Mongo data. Also Perform ETL operations on Snowflake.\n\u2022 Developed CMS and Website using Laravel, Redis, Queue, Command, Multiple Mysql DB Connections\n\nGaussian Networks Projects:\n1. Adda52.com Website:\nDescription: We have Develop many API for Android and IOS Team, Systematic Transform Website from PHP to NodeJs. Token based Authentication.\nRole: Mentor Team (3 Dev, 2 QA, 1 UI Dev), Code review, Module Development, Requirement Analysis, Task Estimation, Task Discussion with product team.\nTechnologies Used: Microservice Architecture, Payment Gateway, MongoDB, MySQL, NodeJs (Express), Nginx, Bootstrap, HTML, Git, Assembla, Webengage, Redis, RabbitMQ, 2 Week Scrum Cycle\nStatus: Live\n2. Adda52.com CRM and Compliance Portal:\nDescription: CRM panel for Internal team. Send SMS/Email, Call Users using Panel, Payment gateway Transaction Status, Withdrawal management, Approve withdraw and instant payment to Users using Rabbit MQ, manage User support ticket, user game play and all information related to user. 2 Lavel approval for critical actions with email notification.\nRole: Mentor Team (3 Dev, 2 QA, 1 UI Dev), Code review, Module Development, Requirement Analysis, Task Estimation, Task Discussion with product team.\nTechnologies Used: MySQL, Codeigniter, Nginx, Bootstrap, HTML, Git, Assembla, 2 Week Scrum Cycle, Rabbit MQ, IMI Call/SMS API, Kenscio Email\nStatus: Live\n3. Adda52.com CMS Portal:\nDescription: Website content management system was developed In house for SEO team. Content approval\nRole: Mentor Team (3 Dev, 2 QA, 1 UI Dev), Code review, Module Development, Requirement Analysis, Task Estimation, Task Discussion with product team.\nTechnologies Used: MySQL, Codeigniter, Nginx, Bootstrap, HTML, Git, Assembla, 2 Week Scrum Cycle\nStatus: Live\n4. Adda52.com Reactivation Portal:\nDescription: Portal for Reactivation team, Create campaign, Add user in campaign, Add Agent, Manage Agent, Automatic distribution of data to Agent using Rabbit MQ for new Signups, Agents performance report.\nRole: Mentor Team (3 Dev, 2 QA, 1 UI Dev), Code review, Module Development, Requirement Analysis, Task Estimation, Task Discussion with product team.\nTechnologies Used: MySQL, Codeigniter, Nginx, Bootstrap, HTML, Git, Assembla, 2 Week Scrum Cycle, Rabbit MQ, IMI Call/SMS API, Kenscio Email\nStatus: Live\n5. Adda52.com Acquisition Portal:\nDescription: Provide a system to track user signup, fetch reports DAU, MAU, and many more reports. Affiliate performance report, Create Landing pages from backend.\nRole: Mentor Team (3 Dev, 2 QA, 1 UI Dev), Code review, Module Development, Requirement Analysis, Task Estimation, Task Discussion with product team.\nTechnologies Used: MySQL, Laravel, Nginx, Bootstrap, HTML, Git, Assembla, 2 Week Scrum Cycle\nStatus: Live\n6. Adda52.com Affiliate Portal:\nDescription: Panel for external affiliate, Affiliate can track user performance register via affiliate, Affiliate commission, Add Affiliate, Manage Affiliate, Affiliate Payout, Affiliate approval\nRole: Developer, Peer Code review, Requirement Analysis, Task Estimation, Task Discussion with Lead.\nTechnologies Used: MySQL, Laravel, Nginx, Bootstrap, HTML, Git, Assembla, 2 Week Scrum Cycle\nStatus: Live\n7. Adda52.com Banner Panel:\nDescription: We have created a common panel to manage banner for all adda52.com website from one source.\nRole: Developer, Peer Code review, Requirement Analysis, Task Estimation, Task Discussion with Lead.\nTechnologies Used: MySQL, NodeJs, Nginx, Bootstrap, HTML, Git, Assembla, 2 Week Scrum Cycle, S3 Bucket, AngularJs\nStatus: Live\n8. Adda52.com Data Portal:\nDescription: Portal to fetch data from slave database. This portal is used by Marketing and finance team to get user data.\nRole: Developer, Requirement Analysis, Task Discussion with Lead, Discussion with product team.\nTechnologies Used: MySQL, Laravel 5, Apache, Bootstrap, HTML, Git, Assembla\nStatus: Live\n\n9. Adda52 Poker School:\nDescription: Developed a website to educate New users about poker and give credit on video completion. Earned credit can be used by user to play poker on main website.\nRole: Developer, Requirement Analysis, Task Discussion with Lead, Discussion with product team.\nTechnologies Used: MySQL, Laravel 5, Apache, Bootstrap, HTML, Git, Assembla\nStatus: Archived by management\n\n10. Adda52 Microdomain Websites:\nDescription: Created micro website to run landing pages for Acquisition team. They can manage landing pages from backend\nRole: Developer, Peer Code review, Requirement Analysis, Task Discussion with Lead.\nTechnologies Used: MySQL, Laravel 5, Apache, Bootstrap, HTML, Git, Assembla\nStatus: Archived (New structure created in NodeJs)"
+        },
+        {
+            "project_name": {
+                "Raw": "Sr. PHP Developer",
+                "Normalized": "Senior PHP Developer",
+                "Probability": "Confident",
+                "Variations": [
+                    "PHP Developer"
+                ]
+            },
+            "tools_used/skill_used": [
+                "PHP Framework",
+                "Codeigniter",
+                "MySQL",
+                "JavaScript",
+                "jQuery",
+                "Google Campaigns",
+                "SEO",
+                "Codeigniter",
+                "Mysql",
+                "HTML",
+                "jQuery"
+            ],
+            "Soft_skills": [
+                "Requirement gathering",
+                "Project Design and Implementation",
+                "Module Development",
+                "Task Estimation",
+                "Task Discussion with team lead",
+                "Support"
+            ],
+            "description": "Haryana (Product Based)\nKey Points:\n\u2022 POC on new technologies, software packages and hardware products for use in website projects.\n\u2022 Collected, defined and translated Toyota and Kamdhenu requirements into project designs and implementation plans.\n\u2022 Developed, coded and updated ERP modules like CRM and Inventory and worked on One page sites for in house product.\n\u2022 Used programming capabilities in PHP Framework like Codeigniter, MySQL and JavaScript, jQuery and other libraries as needed.\n\u2022 Develop some module and Provided support to Toyota and Kamdhenu for ERP implementation. I got certificate of excellent support\n\u2022 Implemented Google Campaigns and SEO for various types of websites.\n\nSinghal System Projects\n1. ERP Portal:\nDescription: Customize Existing ERP Web Portal According to Company Client Toyota and Kamdhenu. This was inventory management system\nRole: Developer, Module Development, Task Estimation, Task Discussion with team lead.\nTechnologies Used: Codeigniter, Mysql, HTML, jQuery\nStatus: Live"
+        },
+        {
+            "project_name": {
+                "Raw": "PHP Developer",
+                "Normalized": "PHP Developer",
+                "Probability": "Confident"
+            },
+            "tools_used/skill_used": [
+                "PHP",
+                "SQL",
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "Content Management Systems"
+            ],
+            "Soft_skills": [
+                "Requirement gathering",
+                "Project Design and Implementation",
+                "User Support",
+                "Communication",
+                "Problem-solving"
+            ],
+            "description": "Delhi\n\u2022 Collected, defined and translated user requirements into project designs and implementation plans.\n\u2022 Completed full redesigns of existing websites to improve navigation, enhance visuals and strengthen search engine rankings.\n\u2022 Created site layout and user interface using HTML and CSS practices.\n\u2022 Delivered user support to clients to train, educate and answer questions.\n\u2022 Created powerful Content Management Systems to serve as interface for client.\n\u2022 Used programming capabilities in PHP, SQL and JavaScript and other 3rd party libraries as needed."
+        },
+        {
+            "project_name": {
+                "Raw": "Junior Web Developer",
+                "Normalized": "Junior Web Developer",
+                "Probability": "Confident",
+                "Variations": [
+                    "Web Developer"
+                ]
+            },
+            "tools_used/skill_used": [
+                "PHP",
+                "SQL",
+                "JavaScript",
+                "Content Management Systems"
+            ],
+            "Soft_skills": [
+                "Troubleshooting",
+                "Unit Testing"
+            ],
+            "description": "\u2022 Used programming capabilities in PHP, SQL and JavaScript and other libraries as needed.\n\u2022 Created powerful Content Management Systems to serve as interface for client.\n\u2022 Tested websites and performed troubleshooting prior to deployment.\n\u2022 Created web applications and components using PHP programming language.\n\u2022 Conducted unit testing to deliver optimal browser functionality."
+        }
+    ]
+}

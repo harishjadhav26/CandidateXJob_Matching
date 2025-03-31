@@ -1,0 +1,152 @@
+{
+    "Document ID": "644ce08178e8fc84119ab307",
+    "Full Name": "AMAN SINGH",
+    "Email": "bkaman.peace@yopmail.com",
+    "Phone Number": "9038671745",
+    "Current Job Title": "Software Engineer",
+    "City": "Kolkata",
+    "State": "WB",
+    "Country Code": "91",
+    "LinkedIn Profile": "",
+    "GitHub Profile": "",
+    "Portfolio Website": "",
+    "Work Experience": 6,
+    "Education": [],
+    "Employment History": [
+        {
+            "designation": "Software Engineer",
+            "company": "Arvind Internet",
+            "from": "2021-05-01",
+            "to": "Present",
+            "aboutRole": "Develop rest apis, Marketplace integration with omuni channel, Managed\norder flow",
+            "techUsed": [],
+            "toolUsed": [],
+            "stillWorking": true,
+            "location": "Bengaluru"
+        },
+        {
+            "designation": "Software Engineer",
+            "company": "Codelynks Software Solutions",
+            "from": "2020-10-01",
+            "to": "2021-05-01",
+            "aboutRole": "Develop rest apis with the latest backend framework of Nodejs",
+            "techUsed": [],
+            "toolUsed": [],
+            "stillWorking": false,
+            "location": ""
+        },
+        {
+            "designation": "Software Engineer",
+            "company": "Vanward Information Technologies",
+            "from": "2020-02-01",
+            "to": "2020-10-01",
+            "aboutRole": "Develop user interfaces with the latest frontend framework of Angular",
+            "techUsed": [],
+            "toolUsed": [],
+            "stillWorking": false,
+            "location": "Bangalore"
+        },
+        {
+            "designation": "",
+            "company": "Success Orbit",
+            "from": "2014-04-01",
+            "to": "2017-09-01",
+            "aboutRole": "BCA, MCA, B.Tech Faculty\nGiving training on programming languages like C, C++, data structures,\nAlgorithms, operating system, DBMS, and core java",
+            "techUsed": [],
+            "toolUsed": [],
+            "stillWorking": false,
+            "location": "Kolkata"
+        }
+    ],
+    "Work Preference": [
+        "onsite"
+    ],
+    "Skills": [
+        "Amazon Web Services",
+        "C++",
+        "Caching",
+        "DBMS",
+        "Data Structures",
+        "Database Management System",
+        "Eclipse",
+        "General Ledger",
+        "Git",
+        "JAVA",
+        "Jenkins",
+        "Kafka",
+        "Kibana",
+        "Mongodb",
+        "Mysql",
+        "Node.JS",
+        "Queue Management",
+        "Reconciliation",
+        "Redis",
+        "Spring Boot",
+        "Teaching",
+        "WEB Portal"
+    ],
+    "Languages Known": [
+        "Bangla",
+        "English",
+        "Hindi"
+    ],
+    "Projects": [
+        {
+            "project_name": {
+                "Raw": "Software Engineer",
+                "Normalized": "Software Engineer",
+                "Probability": "Confident"
+            },
+            "tools_used/skill_used": [
+                "rest apis",
+                "Marketplace integration",
+                "omuni channel"
+            ],
+            "Soft_skills": [
+                "Managed order flow"
+            ],
+            "description": "Develop rest apis, Marketplace integration with omuni channel, Managed\norder flow"
+        },
+        {
+            "project_name": {
+                "Raw": "Software Engineer",
+                "Normalized": "Software Engineer",
+                "Probability": "Confident"
+            },
+            "tools_used/skill_used": [
+                "rest apis",
+                "Nodejs"
+            ],
+            "Soft_skills": [],
+            "description": "Develop rest apis with the latest backend framework of Nodejs"
+        },
+        {
+            "project_name": {
+                "Raw": "Software Engineer",
+                "Normalized": "Software Engineer",
+                "Probability": "Confident"
+            },
+            "tools_used/skill_used": [
+                "Angular"
+            ],
+            "Soft_skills": [],
+            "description": "Develop user interfaces with the latest frontend framework of Angular"
+        },
+        {
+            "project_name": "",
+            "tools_used/skill_used": [
+                "C",
+                "C++",
+                "data structures",
+                "Algorithms",
+                "operating system",
+                "DBMS",
+                "core java"
+            ],
+            "Soft_skills": [
+                "Teaching"
+            ],
+            "description": "BCA, MCA, B.Tech Faculty\nGiving training on programming languages like C, C++, data structures,\nAlgorithms, operating system, DBMS, and core java"
+        }
+    ]
+}

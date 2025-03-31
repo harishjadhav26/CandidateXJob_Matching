@@ -1,0 +1,121 @@
+{
+    "Document ID": "644ce08578e8fc84119ab3c3",
+    "Full Name": "Ravi Rao",
+    "Email": "raoravi1988@yopmail.com",
+    "Phone Number": "9650681202",
+    "Current Job Title": "consultant",
+    "City": "pune",
+    "State": "maharastra",
+    "Country Code": "91",
+    "LinkedIn Profile": "",
+    "GitHub Profile": "",
+    "Portfolio Website": "",
+    "Work Experience": "",
+    "Education": [],
+    "Employment History": [
+        {
+            "designation": "Consultant",
+            "company": "ATOS India",
+            "from": "2022-02-01",
+            "to": "Present",
+            "aboutRole": "",
+            "techUsed": [],
+            "toolUsed": [],
+            "stillWorking": true,
+            "location": ""
+        },
+        {
+            "designation": "Senior software engineer",
+            "company": "On Demand Agility",
+            "from": "2020-10-01",
+            "to": "2022-02-01",
+            "aboutRole": "Worked as Sr. software engineer. at SA Tech Pvt Ltd (client: Dell) from Oct2019 to Mar2020",
+            "techUsed": [],
+            "toolUsed": [],
+            "stillWorking": false,
+            "location": ""
+        },
+        {
+            "designation": "Senior software engineer",
+            "company": "Conduent",
+            "from": "2017-12-01",
+            "to": "2018-08-31",
+            "aboutRole": "",
+            "techUsed": [],
+            "toolUsed": [],
+            "stillWorking": false,
+            "location": ""
+        },
+        {
+            "designation": "UI developer",
+            "company": "Exl Techno Solution",
+            "from": "2014-05-01",
+            "to": "2017-10-01",
+            "aboutRole": "",
+            "techUsed": [],
+            "toolUsed": [],
+            "stillWorking": false,
+            "location": ""
+        }
+    ],
+    "Work Preference": [
+        "onsite"
+    ],
+    "Skills": [
+        "AJAX",
+        "API",
+        "Agile",
+        "Artificial Intelligence",
+        "Billing",
+        "Bootstrap",
+        "CSS",
+        "Client-Server",
+        "Coding",
+        "Computer Vision",
+        "D3.JS",
+        "DB2",
+        "Data Modeling",
+        "Data Visualization",
+        "Database Modeling",
+        "Engines",
+        "Front-End",
+        "HTML",
+        "JAVA",
+        "JSON",
+        "Javascript",
+        "Jquery",
+        "Linux",
+        "Loader",
+        "Machine Learning",
+        "Microsoft Windows",
+        "Node.JS",
+        "Object Oriented Programming",
+        "Oracle",
+        "Photoshop",
+        "Python",
+        "REST",
+        "Scripting",
+        "Scrum",
+        "Search Engine Optimization",
+        "Spring Boot",
+        "Unit Testing",
+        "User Experience Design",
+        "User Interface",
+        "WEB Based"
+    ],
+    "Languages Known": [
+        "English"
+    ],
+    "Projects": [
+        {
+            "project_name": {
+                "Raw": "Sr. software engineer",
+                "Normalized": "Senior software engineer",
+                "Probability": "Confident"
+            },
+            "tools_used/skill_used": [],
+            "Soft_skills": [],
+            "description": "Worked as Sr. software engineer. at SA Tech Pvt Ltd (client: Dell) from Oct2019 to Mar2020"
+        }
+    ]
+}

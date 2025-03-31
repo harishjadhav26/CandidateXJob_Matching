@@ -1,0 +1,314 @@
+{
+    "Document ID": "644ce07878e8fc84119ab0cd",
+    "Full Name": "Mohd Saquib Siddiqui",
+    "Email": "mohd_saquib@yopmail.com",
+    "Phone Number": "9336768880",
+    "Current Job Title": "Technology Specialist",
+    "City": "Prayagraj (Allahabad)",
+    "State": "UP",
+    "Country Code": "91",
+    "LinkedIn Profile": "",
+    "GitHub Profile": "",
+    "Portfolio Website": "",
+    "Work Experience": 7,
+    "Education": [
+        {
+            "degree": "B. Tech.",
+            "specialization": "EEE",
+            "institution": "UPTU Lucknow",
+            "year": "2012"
+        },
+        {
+            "degree": "Intermediate",
+            "specialization": "ISC Board",
+            "institution": "ISC Board",
+            "year": "2008"
+        },
+        {
+            "degree": "High School",
+            "specialization": "ICSE Board",
+            "institution": "ICSE Board",
+            "year": "2006"
+        },
+        {
+            "degree": "CADD",
+            "specialization": "Electrical",
+            "institution": "Vedant, Lucknow",
+            "year": "Not Available, but likely before 2012"
+        }
+    ],
+    "Employment History": [
+        {
+            "designation": "Technology Specialist",
+            "company": "Stelling Technologies Railyatri",
+            "from": "2021-08-01",
+            "to": "Present",
+            "aboutRole": "Working as a team Lead. Primarily dedicated to resolve bug risen, Introducing new modules to the team for development, Error monitoring and resolving. Some Architectural involvement. Primarily working on technologies like Ruby on Rails, Mysql, MongoDB, Redis, NodeJS, ExpressJS, Ajax",
+            "techUsed": [],
+            "toolUsed": [],
+            "stillWorking": true,
+            "location": ""
+        },
+        {
+            "designation": "Senior Software Engineer",
+            "company": "ZH Healthcare",
+            "from": "2020-11-01",
+            "to": "2021-06-01",
+            "aboutRole": "Working as a Software Developer in the team. Primarily dedicated to resolve bug risen during platform upgradation.\nI also helped integrate google translator API for application translation issues. Technologies used here are ZF2, ZF3 and mysql in backend and javascript and jquery as frontend technologies.",
+            "techUsed": [],
+            "toolUsed": [],
+            "stillWorking": false,
+            "location": ""
+        },
+        {
+            "designation": "Software Engineer",
+            "company": "Appy Pie",
+            "from": "2019-06-01",
+            "to": "2020-05-01",
+            "aboutRole": "Working as a Software Developer in the team. Working on integrating common payment gateways. Integrated multiple gateways using Rest APIs. The module was carried forward using technologies like: Zend, CorePHP, MongoDB, MySQL, AngularJS and Node JS. I was asked to develop such a module so that anyone can integrate payment gateway without resubmitting the Mobile Apps. Communicate between two different database and keeping the system optimized.",
+            "techUsed": [],
+            "toolUsed": [],
+            "stillWorking": false,
+            "location": ""
+        },
+        {
+            "designation": "Sidkes Consultant",
+            "company": "",
+            "from": "2019-01-01",
+            "to": "2019-06-01",
+            "aboutRole": "Sr. PHP Consultant\nWorking as a Sr. Php consultant and handling the team. Currently working on Laravel Project for Micromax India. The project was to deliver movies directly to the client in an encrypted format. The Initial stage was to develop and monitor those clients who have paid and movies can be delivered. Apart from that I was also involved in developing api in NodeJS.",
+            "techUsed": [],
+            "toolUsed": [],
+            "stillWorking": false,
+            "location": ""
+        },
+        {
+            "designation": "Software Developer Web",
+            "company": "SequelOne Solutions",
+            "from": "2018-05-01",
+            "to": "2018-11-01",
+            "aboutRole": "Working in a Product based Company. Developing new module and fixing existing one as per the requirement. Using technologies: Codeigniter, Core PHP, MSSQL, jquery, Ajax, and 3rd party plugins like datatabled, Kendu UI grid, etc.",
+            "techUsed": [],
+            "toolUsed": [],
+            "stillWorking": false,
+            "location": ""
+        },
+        {
+            "designation": "Developer",
+            "company": "Haqs",
+            "from": "2014-08-01",
+            "to": "2017-11-01",
+            "aboutRole": "Working in a fast paced, dynamic environment and being responsible for determining all necessary coding requirements for a sites creation including forms, e-commerce capability and specialized scripts",
+            "techUsed": [],
+            "toolUsed": [],
+            "stillWorking": false,
+            "location": ""
+        },
+        {
+            "designation": "Service Engineer",
+            "company": "VewoldTechologies",
+            "from": "2012-07-01",
+            "to": "2013-04-01",
+            "aboutRole": "Served the company as a SERVICE ENGINEER for 10 Months. We were offered to troubleshooting the developed program for the automation industries.",
+            "techUsed": [],
+            "toolUsed": [],
+            "stillWorking": false,
+            "location": ""
+        }
+    ],
+    "Work Preference": [
+        "onsite"
+    ],
+    "Skills": [
+        ".NET",
+        "AJAX",
+        "API",
+        "Angularjs",
+        "Apache",
+        "Applications Development",
+        "Auto Cad",
+        "Autocad",
+        "Bootstrap",
+        "CSS",
+        "Codeigniter",
+        "Coding",
+        "Corel Draw",
+        "Database",
+        "Database Management",
+        "Dreamweaver",
+        "Fanuc",
+        "Flight Safety",
+        "Forge",
+        "Frameworks",
+        "Git",
+        "HTML",
+        "Healthcare",
+        "Human Resource Management",
+        "Industrial Automation",
+        "JAVA",
+        "Javascript",
+        "Jquery",
+        "Lamp Stack",
+        "Laravel",
+        "MVC",
+        "Microservice",
+        "Microsoft Windows",
+        "Model View Controller",
+        "Model-View-Controller",
+        "Mongodb",
+        "Mysql",
+        "Node.JS",
+        "PHP",
+        "Pharmacy",
+        "Photoshop",
+        "Process Automation",
+        "Programmable Logic Controller",
+        "REST",
+        "Redis",
+        "Robotics",
+        "Ruby",
+        "Scada",
+        "Service Engineer",
+        "Shell Scripting",
+        "Team Lead",
+        "Team Player",
+        "Technical Specifications",
+        "Translator",
+        "User Interface",
+        "Wordpress",
+        "Zend"
+    ],
+    "Languages Known": [
+        "English",
+        "Hindi",
+        "Urdu"
+    ],
+    "Projects": [
+        {
+            "project_name": {
+                "Raw": "Technology Specialist",
+                "Normalized": "Technology Specialist",
+                "Probability": "Confident"
+            },
+            "tools_used/skill_used": [
+                "Ruby on Rails",
+                "Mysql",
+                "MongoDB",
+                "Redis",
+                "NodeJS",
+                "ExpressJS",
+                "Ajax"
+            ],
+            "Soft_skills": [
+                "Team Lead",
+                "Error monitoring"
+            ],
+            "description": "Working as a team Lead. Primarily dedicated to resolve bug risen, Introducing new modules to the team for development, Error monitoring and resolving. Some Architectural involvement. Primarily working on technologies like Ruby on Rails, Mysql, MongoDB, Redis, NodeJS, ExpressJS, Ajax"
+        },
+        {
+            "project_name": {
+                "Raw": "Senior Software Engineer",
+                "Normalized": "Senior Software Engineer",
+                "Probability": "Confident",
+                "Variations": [
+                    "Software Engineer"
+                ]
+            },
+            "tools_used/skill_used": [
+                "ZF2",
+                "ZF3",
+                "mysql",
+                "javascript",
+                "jquery",
+                "google translator API"
+            ],
+            "Soft_skills": [
+                "Problem-solving"
+            ],
+            "description": "Working as a Software Developer in the team. Primarily dedicated to resolve bug risen during platform upgradation.\nI also helped integrate google translator API for application translation issues. Technologies used here are ZF2, ZF3 and mysql in backend and javascript and jquery as frontend technologies."
+        },
+        {
+            "project_name": {
+                "Raw": "Software Engineer",
+                "Normalized": "Software Engineer",
+                "Probability": "Confident"
+            },
+            "tools_used/skill_used": [
+                "Zend",
+                "CorePHP",
+                "MongoDB",
+                "MySQL",
+                "AngularJS",
+                "Node JS",
+                "Rest APIs"
+            ],
+            "Soft_skills": [
+                "Communication",
+                "Problem-solving"
+            ],
+            "description": "Working as a Software Developer in the team. Working on integrating common payment gateways. Integrated multiple gateways using Rest APIs. The module was carried forward using technologies like: Zend, CorePHP, MongoDB, MySQL, AngularJS and Node JS. I was asked to develop such a module so that anyone can integrate payment gateway without resubmitting the Mobile Apps. Communicate between two different database and keeping the system optimized."
+        },
+        {
+            "project_name": {
+                "Raw": "Sidkes Consultant",
+                "Normalized": "Sidkes Consultant",
+                "Probability": "Confident"
+            },
+            "tools_used/skill_used": [
+                "Laravel",
+                "NodeJS"
+            ],
+            "Soft_skills": [
+                "Team Lead",
+                "Consulting"
+            ],
+            "description": "Sr. PHP Consultant\nWorking as a Sr. Php consultant and handling the team. Currently working on Laravel Project for Micromax India. The project was to deliver movies directly to the client in an encrypted format. The Initial stage was to develop and monitor those clients who have paid and movies can be delivered. Apart from that I was also involved in developing api in NodeJS."
+        },
+        {
+            "project_name": {
+                "Raw": "Software Developer - Web",
+                "Normalized": "Software Developer Web",
+                "Probability": "Confident",
+                "Variations": [
+                    "Software Developer"
+                ]
+            },
+            "tools_used/skill_used": [
+                "Codeigniter",
+                "Core PHP",
+                "MSSQL",
+                "jquery",
+                "Ajax",
+                "datatabled",
+                "Kendu UI grid"
+            ],
+            "Soft_skills": [],
+            "description": "Working in a Product based Company. Developing new module and fixing existing one as per the requirement. Using technologies: Codeigniter, Core PHP, MSSQL, jquery, Ajax, and 3rd party plugins like datatabled, Kendu UI grid, etc."
+        },
+        {
+            "project_name": {
+                "Raw": "Developer",
+                "Normalized": "Developer",
+                "Probability": "Confident"
+            },
+            "tools_used/skill_used": [],
+            "Soft_skills": [
+                "Coding",
+                "Problem-solving"
+            ],
+            "description": "Working in a fast paced, dynamic environment and being responsible for determining all necessary coding requirements for a sites creation including forms, e-commerce capability and specialized scripts"
+        },
+        {
+            "project_name": {
+                "Raw": "Service Engineer",
+                "Normalized": "Service Engineer",
+                "Probability": "Confident"
+            },
+            "tools_used/skill_used": [],
+            "Soft_skills": [
+                "Troubleshooting"
+            ],
+            "description": "Served the company as a SERVICE ENGINEER for 10 Months. We were offered to troubleshooting the developed program for the automation industries."
+        }
+    ]
+}

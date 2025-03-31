@@ -1,4 +1,4 @@
-from cleaned import process_single_resume
+from cleaned import process_resume
 import json
 import datetime
 import asyncio
@@ -88,7 +88,7 @@ def analyze_with_llm(employment_summary):
     return response, stability_status
 
 async def main():
-    resume_data = await process_single_resume()
+    resume_data = await process_resume()
     employment_data = extract_employment_data(resume_data)
     
     if not employment_data:

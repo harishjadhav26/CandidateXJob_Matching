@@ -7,7 +7,7 @@ from geopy.geocoders import Nominatim
 from geopy.distance import geodesic
 from geopy.exc import GeocoderTimedOut, GeocoderServiceError
 from phonenumbers.phonenumberutil import region_code_for_country_code
-from cleaned import process_single_resume
+from cleaned import process_resume
 from langchain_google_genai import GoogleGenerativeAI
 from langchain.schema import HumanMessage
 
@@ -181,7 +181,7 @@ Return ONLY a valid JSON with these three fields.
 
 async def main():
     # Get data from your existing function
-    cleaned_data = await process_single_resume()
+    cleaned_data = await process_resume()
     
     if not cleaned_data:
         print("No resume data found.")
