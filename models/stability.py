@@ -16,10 +16,16 @@ GEMINI_MODEL = os.getenv("GEMINI_MODEL")
 
 def extract_employment_data(resume_data):
     """Extract and format employment history from resume data."""
+
+    if isinstance(resume_data, list):
+        if len(resume_data) > 0 and isinstance(resume_data[0], dict):
+            resume_data = resume_data[0]  
+        else:
+            return []
+
     employment_history = resume_data.get("Employment History", [])
-    
     structured_data = []
-    
+
     for entry in employment_history:
         company = entry.get("company")
         from_date_raw = entry.get("from")
@@ -56,17 +62,30 @@ def extract_employment_data(resume_data):
     return structured_data
 
 def analyze_with_llm(employment_summary):
-    """Use LLM to generate a professional job stability analysis."""
+    """Use LLM to generate a job stability status and analysis."""
     llm = GoogleGenerativeAI(model=GEMINI_MODEL, google_api_key=GEMINI_API_KEY)
+    
+    # Generate a professional stability analysis
     prompt_template = PromptTemplate(
         input_variables=["employment_summary"],
         template=(
-            "Here is the employment summary (short and only relevant): {employment_summary}. "
-            "Based on this data, please provide a professional analysis of job stability in line with company standards."
+            "Here is the employment history summary: {employment_summary}. "
+            "Based on this, provide a professional job stability analysis. "
+            "Then, classify the candidate as 'Stable', 'Moderately Stable', or 'Unstable' based on corporate hiring standards."
         )
     )
+    
     chain = LLMChain(llm=llm, memory=ConversationBufferMemory(), prompt=prompt_template)
-    return chain.run({"employment_summary": employment_summary})
+    response = chain.run({"employment_summary": employment_summary})
+
+    # Extract structured stability status from LLM response
+    stability_status = "Moderately Stable"  # Default fallback
+    if "Stable" in response:
+        stability_status = "Stable"
+    elif "Unstable" in response:
+        stability_status = "Unstable"
+
+    return response, stability_status
 
 async def main():
     resume_data = await process_single_resume()
@@ -81,10 +100,11 @@ async def main():
         for entry in employment_data if entry['months_worked'] is not None
     ])
 
-    analysis = analyze_with_llm(employment_summary)
+    analysis, stability_status = analyze_with_llm(employment_summary)
 
     result = {
         "employment_data": employment_data,
+        "stability_status": stability_status,
         "analysis": analysis
     }
 
